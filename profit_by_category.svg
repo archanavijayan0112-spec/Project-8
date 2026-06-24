@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="480" viewBox="0 0 900 480">
+  <rect width="100%" height="100%" fill="#f8faf9"/>
+  <text x="36" y="36" font-size="24" font-family="Arial" font-weight="700" fill="#17202a">Profit by Category</text>
+  <line x1="90" y1="370" x2="870" y2="370" stroke="#cfd8dc"/>
+  <line x1="90" y1="58" x2="90" y2="370" stroke="#cfd8dc"/>
+  
+        <rect x="98" y="58" width="179" height="312" fill="#d97706" rx="5" />
+        <text x="187.5" y="408" text-anchor="middle" font-size="13" fill="#263238">Electronics</text>
+        <text x="187.5" y="50" text-anchor="middle" font-size="12" fill="#263238">$89,714</text>
+        <rect x="293" y="146.66734927954462" width="179" height="223.33265072045538" fill="#d97706" rx="5" />
+        <text x="382.5" y="408" text-anchor="middle" font-size="13" fill="#263238">Furniture</text>
+        <text x="382.5" y="138.66734927954462" text-anchor="middle" font-size="12" fill="#263238">$64,218</text>
+        <rect x="488" y="219.69371369717797" width="179" height="150.30628630282203" fill="#d97706" rx="5" />
+        <text x="577.5" y="408" text-anchor="middle" font-size="13" fill="#263238">Appliances</text>
+        <text x="577.5" y="211.69371369717797" text-anchor="middle" font-size="12" fill="#263238">$43,220</text>
+        <rect x="683" y="351.80442539132645" width="179" height="18.195574608673553" fill="#d97706" rx="5" />
+        <text x="772.5" y="408" text-anchor="middle" font-size="13" fill="#263238">Stationery</text>
+        <text x="772.5" y="343.80442539132645" text-anchor="middle" font-size="12" fill="#263238">$5,232</text>
+</svg>

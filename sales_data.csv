@@ -1,0 +1,820 @@
+order_id,order_date,region,category,product,channel,units,unit_price,discount_rate,revenue,cost,profit,customer_satisfaction
+ORD-10001,2025-01-11,East,Electronics,Laptop,Online,1,722.33,0.1,650.1,491.18,158.92,4.5
+ORD-10002,2025-01-18,West,Appliances,Air Purifier,Retail Store,5,239.19,0.06,1124.19,753.45,370.74,3.5
+ORD-10003,2025-01-16,West,Appliances,Air Purifier,Partner,2,248.81,0.08,457.81,313.5,144.31,4.6
+ORD-10004,2025-01-14,North,Appliances,Coffee Maker,Partner,1,127.28,0.06,119.64,73.82,45.82,4.5
+ORD-10005,2025-01-17,East,Appliances,Coffee Maker,Retail Store,4,132.26,0.07,492.01,306.84,185.17,4.7
+ORD-10006,2025-01-13,North,Furniture,Standing Desk,Online,1,443.17,0.11,394.42,292.49,101.93,4.4
+ORD-10007,2025-01-01,North,Furniture,Standing Desk,Online,2,470.52,0.09,856.35,621.09,235.26,4.6
+ORD-10008,2025-01-10,West,Electronics,Headphones,Retail Store,2,102.63,0.05,195,112.89,82.11,3.5
+ORD-10009,2025-01-20,West,Appliances,Air Purifier,Retail Store,2,263.13,0.04,505.21,331.54,173.67,3.5
+ORD-10010,2025-01-14,East,Electronics,Headphones,Partner,2,96.85,0.07,180.14,106.53,73.61,4.6
+ORD-10011,2025-01-12,East,Appliances,Coffee Maker,Partner,2,127.34,0.07,236.85,147.71,89.14,4.2
+ORD-10012,2025-01-13,South,Appliances,Air Purifier,Partner,1,281.23,0.06,264.36,177.17,87.19,4.7
+ORD-10013,2025-01-08,North,Appliances,Coffee Maker,Retail Store,3,137.63,0.07,383.99,239.48,144.51,3.6
+ORD-10014,2025-01-12,East,Furniture,Office Chair,Online,1,205.94,0.11,183.29,127.68,55.61,4
+ORD-10015,2025-01-16,East,Furniture,Office Chair,Partner,4,206.55,0.07,768.37,512.24,256.13,3.9
+ORD-10016,2025-01-27,North,Appliances,Air Purifier,Partner,3,235.45,0.1,635.71,445,190.71,3.7
+ORD-10017,2025-01-28,East,Stationery,Notebook Set,Partner,4,17.42,0.09,63.41,29.27,34.14,4.1
+ORD-10018,2025-01-13,North,Stationery,Pen Pack,Retail Store,4,9.99,0.08,36.76,15.18,21.58,4.1
+ORD-10019,2025-01-14,East,Furniture,Office Chair,Partner,2,212.38,0.09,386.53,263.35,123.18,3.4
+ORD-10020,2025-01-21,East,Appliances,Coffee Maker,Partner,3,139.53,0.1,376.73,242.78,133.95,4.2
+ORD-10021,2025-01-18,North,Appliances,Coffee Maker,Retail Store,2,113.16,0.07,210.48,131.27,79.21,4.6
+ORD-10022,2025-01-16,South,Furniture,Standing Desk,Retail Store,1,442.77,0.06,416.2,292.23,123.97,3.4
+ORD-10023,2025-01-08,North,Electronics,Headphones,Online,3,102.53,0.1,276.83,169.17,107.66,4.2
+ORD-10024,2025-01-08,South,Stationery,Notebook Set,Partner,5,18.4,0.1,82.8,38.64,44.16,4.2
+ORD-10025,2025-01-05,East,Stationery,Pen Pack,Online,2,10.73,0.08,19.74,8.15,11.59,3.9
+ORD-10026,2025-01-09,East,Appliances,Coffee Maker,Partner,4,122.24,0.08,449.84,283.6,166.24,4.3
+ORD-10027,2025-01-08,West,Stationery,Notebook Set,Partner,4,19.35,0.1,69.66,32.51,37.15,4.5
+ORD-10028,2025-01-20,East,Electronics,Headphones,Retail Store,1,83.86,0.06,78.83,46.12,32.71,4.5
+ORD-10029,2025-01-19,South,Electronics,Headphones,Partner,4,92.91,0.06,349.34,204.4,144.94,4.1
+ORD-10030,2025-01-23,North,Appliances,Air Purifier,Online,5,240.8,0.11,1071.56,758.52,313.04,3.6
+ORD-10031,2025-01-25,West,Appliances,Coffee Maker,Partner,1,138.09,0.09,125.66,80.09,45.57,4.2
+ORD-10032,2025-01-22,West,Stationery,Notebook Set,Partner,3,17.14,0.09,46.79,21.6,25.19,4
+ORD-10033,2025-01-12,North,Stationery,Notebook Set,Online,1,18.91,0.11,16.83,7.94,8.89,3.6
+ORD-10034,2025-01-28,North,Electronics,Headphones,Partner,3,85.3,0.08,235.43,140.75,94.68,3.5
+ORD-10035,2025-01-17,South,Appliances,Coffee Maker,Retail Store,2,120.63,0.07,224.37,139.93,84.44,3.7
+ORD-10036,2025-01-25,West,Appliances,Air Purifier,Online,2,252.8,0.09,460.1,318.53,141.57,4.6
+ORD-10037,2025-01-22,South,Appliances,Coffee Maker,Online,3,113.62,0.12,299.96,197.7,102.26,4.3
+ORD-10038,2025-01-08,East,Electronics,Laptop,Online,5,712.46,0.11,3170.45,2422.36,748.09,4.4
+ORD-10039,2025-01-05,North,Electronics,Headphones,Partner,3,98.17,0.1,265.06,161.98,103.08,3.9
+ORD-10040,2025-01-02,East,Stationery,Notebook Set,Online,3,20.13,0.11,53.75,25.36,28.39,3.6
+ORD-10041,2025-01-08,West,Furniture,Standing Desk,Retail Store,5,449.65,0.08,2068.39,1483.85,584.54,4.2
+ORD-10042,2025-01-22,South,Appliances,Air Purifier,Online,3,238.44,0.08,658.09,450.65,207.44,4.3
+ORD-10043,2025-01-13,East,Appliances,Coffee Maker,Partner,4,116.47,0.07,433.27,270.21,163.06,3.9
+ORD-10044,2025-01-02,South,Stationery,Notebook Set,Online,1,17.61,0.11,15.67,7.4,8.27,4
+ORD-10045,2025-01-16,West,Furniture,Standing Desk,Retail Store,5,443.55,0.05,2106.86,1463.72,643.14,3.6
+ORD-10046,2025-01-08,North,Stationery,Notebook Set,Retail Store,5,19.26,0.06,90.52,40.45,50.07,4.7
+ORD-10047,2025-01-11,West,Stationery,Notebook Set,Online,5,17.09,0.1,76.91,35.89,41.02,4.1
+ORD-10048,2025-01-04,West,Furniture,Office Chair,Retail Store,4,234.74,0.07,873.23,582.16,291.07,4.1
+ORD-10049,2025-01-12,North,Stationery,Pen Pack,Partner,2,11.95,0.1,21.51,9.08,12.43,4.3
+ORD-10050,2025-01-05,East,Furniture,Office Chair,Online,1,198.14,0.11,176.34,122.85,53.49,4.4
+ORD-10051,2025-01-04,East,Furniture,Standing Desk,Partner,1,455.98,0.08,419.5,300.95,118.55,4.5
+ORD-10052,2025-01-08,South,Furniture,Office Chair,Partner,4,231.8,0.07,862.3,574.86,287.44,3.8
+ORD-10053,2025-01-23,South,Furniture,Office Chair,Partner,2,206.12,0.09,375.14,255.59,119.55,3.4
+ORD-10054,2025-01-13,West,Electronics,Laptop,Retail Store,5,849.49,0.06,3992.6,2888.27,1104.33,3.5
+ORD-10055,2025-01-26,South,Furniture,Standing Desk,Online,2,419.04,0.12,737.51,553.13,184.38,4.1
+ORD-10056,2025-01-04,North,Electronics,Laptop,Partner,5,812.97,0.09,3699.01,2764.1,934.91,3.9
+ORD-10057,2025-01-22,North,Electronics,Headphones,Online,3,84.23,0.09,229.95,138.98,90.97,4.1
+ORD-10058,2025-01-25,South,Stationery,Notebook Set,Online,1,19.03,0.12,16.75,7.99,8.76,4.5
+ORD-10059,2025-01-04,South,Appliances,Coffee Maker,Retail Store,3,131.42,0.07,366.66,228.67,137.99,4
+ORD-10060,2025-01-26,East,Electronics,Headphones,Retail Store,5,84.54,0.05,401.56,232.49,169.07,4
+ORD-10061,2025-01-17,West,Appliances,Coffee Maker,Retail Store,2,134.77,0.07,250.67,156.33,94.34,4.4
+ORD-10062,2025-02-11,South,Furniture,Office Chair,Partner,2,228.67,0.07,425.33,283.55,141.78,4
+ORD-10063,2025-02-16,South,Furniture,Office Chair,Retail Store,5,212.72,0.05,1010.42,659.43,350.99,3.8
+ORD-10064,2025-02-05,South,Stationery,Notebook Set,Retail Store,2,20.14,0.07,37.46,16.92,20.54,3.6
+ORD-10065,2025-02-12,West,Stationery,Pen Pack,Retail Store,4,11.72,0.06,44.07,17.81,26.26,4.1
+ORD-10066,2025-02-01,East,Electronics,Headphones,Partner,4,97.54,0.06,366.75,214.59,152.16,3.5
+ORD-10067,2025-02-24,West,Stationery,Pen Pack,Online,2,10.45,0.12,18.39,7.94,10.45,3.5
+ORD-10068,2025-02-05,South,Stationery,Pen Pack,Retail Store,5,10.7,0.05,50.82,20.33,30.49,4.4
+ORD-10069,2025-02-25,West,Appliances,Air Purifier,Online,3,284.8,0.1,768.96,538.27,230.69,4.7
+ORD-10070,2025-02-13,East,Furniture,Standing Desk,Online,2,393.22,0.11,699.93,519.05,180.88,4.4
+ORD-10071,2025-02-24,North,Stationery,Pen Pack,Retail Store,3,11,0.07,30.69,12.54,18.15,4.1
+ORD-10072,2025-02-24,North,Stationery,Notebook Set,Partner,2,19.19,0.09,34.93,16.12,18.81,4.3
+ORD-10073,2025-02-22,South,Stationery,Notebook Set,Retail Store,2,20.12,0.05,38.23,16.9,21.33,3.6
+ORD-10074,2025-02-15,East,Furniture,Office Chair,Retail Store,5,204.42,0.04,981.22,633.7,347.52,3.6
+ORD-10075,2025-02-21,East,Furniture,Standing Desk,Retail Store,3,429.48,0.06,1211.13,850.37,360.76,3.9
+ORD-10076,2025-02-13,South,Stationery,Pen Pack,Partner,2,10.92,0.08,20.09,8.3,11.79,4.6
+ORD-10077,2025-02-01,East,Appliances,Air Purifier,Retail Store,2,248.38,0.07,461.99,312.96,149.03,3.7
+ORD-10078,2025-02-12,South,Electronics,Headphones,Online,2,100.71,0.09,183.29,110.78,72.51,4
+ORD-10079,2025-02-17,East,Furniture,Office Chair,Partner,4,227.92,0.08,838.75,565.24,273.51,4.3
+ORD-10080,2025-02-16,East,Appliances,Air Purifier,Online,2,256.06,0.1,460.91,322.64,138.27,4
+ORD-10081,2025-02-09,South,Electronics,Headphones,Partner,3,87.93,0.1,237.41,145.08,92.33,4.2
+ORD-10082,2025-02-16,South,Stationery,Notebook Set,Online,5,20.01,0.11,89.04,42.02,47.02,4.3
+ORD-10083,2025-02-09,East,Furniture,Office Chair,Online,4,219.74,0.12,773.48,544.96,228.52,4
+ORD-10084,2025-02-02,North,Appliances,Air Purifier,Partner,5,267.18,0.07,1242.39,841.62,400.77,4
+ORD-10085,2025-02-06,South,Stationery,Pen Pack,Online,1,12.25,0.1,11.03,4.66,6.37,4
+ORD-10086,2025-02-23,East,Appliances,Air Purifier,Online,1,274.01,0.11,243.87,172.63,71.24,3.5
+ORD-10087,2025-02-15,West,Appliances,Air Purifier,Retail Store,3,253.26,0.05,721.79,478.66,243.13,4.7
+ORD-10088,2025-02-04,North,Furniture,Office Chair,Partner,4,227.6,0.06,855.78,564.45,291.33,3.7
+ORD-10089,2025-02-01,North,Stationery,Notebook Set,Partner,4,19.24,0.08,70.8,32.32,38.48,3.9
+ORD-10090,2025-02-07,North,Stationery,Pen Pack,Partner,3,10.19,0.07,28.43,11.62,16.81,4.6
+ORD-10091,2025-02-24,North,Electronics,Headphones,Partner,4,96.28,0.09,350.46,211.82,138.64,3.7
+ORD-10092,2025-02-12,North,Appliances,Coffee Maker,Partner,1,136.48,0.07,126.93,79.16,47.77,4.7
+ORD-10093,2025-02-28,South,Furniture,Office Chair,Online,5,207.41,0.12,912.6,642.97,269.63,4.4
+ORD-10094,2025-02-11,South,Furniture,Standing Desk,Online,1,400.58,0.11,356.52,264.38,92.14,4
+ORD-10095,2025-02-17,East,Stationery,Notebook Set,Online,2,19.58,0.1,35.24,16.45,18.79,4.3
+ORD-10096,2025-02-20,West,Electronics,Headphones,Online,2,88.87,0.12,156.41,97.76,58.65,3.4
+ORD-10097,2025-02-04,North,Appliances,Air Purifier,Retail Store,5,234.55,0.04,1125.84,738.83,387.01,3.7
+ORD-10098,2025-02-28,East,Furniture,Office Chair,Online,2,215.39,0.11,383.39,267.08,116.31,3.5
+ORD-10099,2025-02-27,North,Furniture,Office Chair,Online,2,211.7,0.12,372.59,262.51,110.08,4.2
+ORD-10100,2025-02-08,West,Electronics,Laptop,Partner,1,808.4,0.09,735.64,549.71,185.93,4.7
+ORD-10101,2025-02-09,North,Electronics,Laptop,Partner,4,725.54,0.07,2699.01,1973.47,725.54,3.9
+ORD-10102,2025-02-06,West,Electronics,Headphones,Retail Store,3,84.84,0.07,236.7,139.99,96.71,4
+ORD-10103,2025-02-27,North,Appliances,Coffee Maker,Partner,5,127.89,0.09,581.9,370.88,211.02,4.1
+ORD-10104,2025-02-17,South,Furniture,Standing Desk,Retail Store,2,408.25,0.06,767.51,538.89,228.62,3.8
+ORD-10105,2025-02-06,West,Stationery,Pen Pack,Retail Store,1,11.61,0.07,10.8,4.41,6.39,3.4
+ORD-10106,2025-02-14,West,Furniture,Standing Desk,Retail Store,3,417.26,0.07,1164.16,826.17,337.99,4.7
+ORD-10107,2025-02-12,North,Electronics,Headphones,Online,2,91.52,0.1,164.74,100.67,64.07,4.6
+ORD-10108,2025-02-17,West,Appliances,Air Purifier,Online,5,256.65,0.09,1167.76,808.45,359.31,3.9
+ORD-10109,2025-02-08,West,Stationery,Notebook Set,Partner,4,16.36,0.07,60.86,27.48,33.38,4.6
+ORD-10110,2025-02-17,East,Stationery,Notebook Set,Retail Store,3,18.99,0.06,53.55,23.93,29.62,3.9
+ORD-10111,2025-02-01,West,Electronics,Laptop,Partner,5,851.02,0.09,3872.14,2893.47,978.67,3.9
+ORD-10112,2025-02-12,East,Furniture,Office Chair,Online,3,203.17,0.1,548.56,377.9,170.66,3.8
+ORD-10113,2025-02-26,South,Stationery,Notebook Set,Retail Store,3,19.53,0.06,55.07,24.61,30.46,3.4
+ORD-10114,2025-02-18,East,Electronics,Headphones,Online,3,95.47,0.1,257.77,157.53,100.24,3.7
+ORD-10115,2025-02-09,North,Stationery,Notebook Set,Online,3,16.3,0.12,43.03,20.54,22.49,4.2
+ORD-10116,2025-02-17,South,Furniture,Standing Desk,Partner,5,388.97,0.09,1769.81,1283.6,486.21,4.1
+ORD-10117,2025-02-08,West,Furniture,Standing Desk,Online,1,406.66,0.11,361.93,268.4,93.53,3.6
+ORD-10118,2025-02-01,South,Stationery,Pen Pack,Online,3,10.72,0.09,29.27,12.22,17.05,4.3
+ORD-10119,2025-02-17,South,Furniture,Office Chair,Partner,5,209.58,0.09,953.59,649.7,303.89,4
+ORD-10120,2025-02-28,West,Electronics,Laptop,Online,5,786.47,0.1,3539.12,2674,865.12,3.6
+ORD-10121,2025-02-09,North,Furniture,Office Chair,Retail Store,5,218.24,0.06,1025.73,676.54,349.19,4.2
+ORD-10122,2025-02-16,West,Appliances,Air Purifier,Retail Store,5,291.14,0.06,1368.36,917.09,451.27,3.7
+ORD-10123,2025-02-28,South,Stationery,Notebook Set,Partner,2,16.45,0.09,29.94,13.82,16.12,4.2
+ORD-10124,2025-02-22,North,Electronics,Headphones,Retail Store,5,94.25,0.05,447.69,259.19,188.5,4.5
+ORD-10125,2025-02-25,North,Appliances,Coffee Maker,Retail Store,4,139.86,0.07,520.28,324.48,195.8,3.8
+ORD-10126,2025-02-09,South,Furniture,Office Chair,Online,1,218.61,0.09,198.94,135.54,63.4,3.5
+ORD-10127,2025-02-14,East,Stationery,Pen Pack,Retail Store,2,10.4,0.06,19.55,7.9,11.65,3.4
+ORD-10128,2025-02-13,West,Stationery,Notebook Set,Partner,2,20.07,0.07,37.33,16.86,20.47,4.4
+ORD-10129,2025-02-19,North,Electronics,Headphones,Retail Store,5,94.22,0.06,442.83,259.11,183.72,4.2
+ORD-10130,2025-02-20,East,Stationery,Notebook Set,Partner,3,16.98,0.07,47.37,21.39,25.98,3.5
+ORD-10131,2025-02-27,West,Electronics,Laptop,Retail Store,3,802.78,0.04,2312.01,1637.67,674.34,4.5
+ORD-10132,2025-02-24,North,Appliances,Air Purifier,Retail Store,4,254.17,0.08,935.35,640.51,294.84,4.4
+ORD-10133,2025-02-02,West,Electronics,Laptop,Retail Store,3,702.51,0.07,1960,1433.12,526.88,4.3
+ORD-10134,2025-02-13,West,Electronics,Headphones,Online,3,92.7,0.1,250.29,152.96,97.33,4.2
+ORD-10135,2025-02-28,East,Furniture,Standing Desk,Partner,2,416.77,0.09,758.52,550.14,208.38,4.6
+ORD-10136,2025-03-09,South,Appliances,Coffee Maker,Online,3,122.61,0.13,320.01,213.34,106.67,4.2
+ORD-10137,2025-03-17,South,Appliances,Coffee Maker,Retail Store,3,137.82,0.09,376.25,239.81,136.44,4.6
+ORD-10138,2025-03-08,West,Furniture,Standing Desk,Partner,3,445.76,0.11,1190.18,882.6,307.58,4.6
+ORD-10139,2025-03-16,West,Electronics,Laptop,Online,5,784.14,0.16,3293.39,2666.08,627.31,4.3
+ORD-10140,2025-03-13,East,Stationery,Pen Pack,Partner,3,10.99,0.14,28.35,12.53,15.82,4.2
+ORD-10141,2025-03-20,West,Electronics,Laptop,Partner,4,833.44,0.1,3000.38,2266.96,733.42,3.8
+ORD-10142,2025-03-24,East,Electronics,Headphones,Partner,3,94.04,0.1,253.91,155.17,98.74,3.7
+ORD-10143,2025-03-04,South,Furniture,Office Chair,Retail Store,2,226.1,0.09,411.5,280.36,131.14,4.7
+ORD-10144,2025-03-17,North,Electronics,Laptop,Retail Store,4,805.77,0.12,2836.31,2191.69,644.62,3.8
+ORD-10145,2025-03-10,South,Appliances,Air Purifier,Retail Store,1,276.33,0.08,254.22,174.09,80.13,3.6
+ORD-10146,2025-03-21,East,Appliances,Air Purifier,Retail Store,2,265.86,0.09,483.87,334.98,148.89,4.3
+ORD-10147,2025-03-16,East,Electronics,Laptop,Retail Store,4,731.11,0.1,2632,1988.62,643.38,4.6
+ORD-10148,2025-03-16,North,Electronics,Laptop,Partner,3,868.08,0.11,2317.77,1770.88,546.89,3.9
+ORD-10149,2025-03-19,North,Electronics,Headphones,Partner,4,91.69,0.11,326.42,201.72,124.7,3.5
+ORD-10150,2025-03-17,South,Electronics,Headphones,Partner,2,88.96,0.12,156.57,97.86,58.71,4.7
+ORD-10151,2025-03-07,East,Electronics,Laptop,Partner,2,867.41,0.12,1526.64,1179.68,346.96,4
+ORD-10152,2025-03-15,South,Furniture,Office Chair,Partner,5,200.91,0.14,863.91,622.82,241.09,3.5
+ORD-10153,2025-03-20,West,Stationery,Pen Pack,Retail Store,1,11.2,0.11,9.97,4.26,5.71,4.6
+ORD-10154,2025-03-12,South,Appliances,Air Purifier,Online,3,237.12,0.12,626,448.16,177.84,3.8
+ORD-10155,2025-03-08,East,Electronics,Headphones,Online,5,95.95,0.13,417.38,263.86,153.52,4.4
+ORD-10156,2025-03-21,West,Furniture,Office Chair,Retail Store,2,224.58,0.08,413.23,278.48,134.75,3.9
+ORD-10157,2025-03-04,East,Stationery,Pen Pack,Retail Store,2,11.81,0.09,21.49,8.98,12.51,3.6
+ORD-10158,2025-03-12,West,Appliances,Coffee Maker,Retail Store,2,130.14,0.12,229.05,150.96,78.09,4.3
+ORD-10159,2025-03-13,West,Stationery,Pen Pack,Retail Store,4,11.76,0.09,42.81,17.88,24.93,4.4
+ORD-10160,2025-03-25,West,Electronics,Headphones,Partner,5,90.46,0.12,398.02,248.76,149.26,3.8
+ORD-10161,2025-03-13,East,Electronics,Laptop,Online,4,706.08,0.16,2372.43,1920.54,451.89,4.3
+ORD-10162,2025-03-05,West,Stationery,Pen Pack,Retail Store,6,11.06,0.09,60.39,25.22,35.17,3.6
+ORD-10163,2025-03-14,East,Appliances,Air Purifier,Online,3,287.7,0.12,759.53,543.75,215.78,3.8
+ORD-10164,2025-03-24,West,Appliances,Air Purifier,Online,4,264.6,0.12,931.39,666.79,264.6,4.5
+ORD-10165,2025-03-28,East,Stationery,Pen Pack,Retail Store,6,10.26,0.08,56.64,23.39,33.25,3.8
+ORD-10166,2025-03-10,East,Stationery,Notebook Set,Retail Store,2,18.4,0.11,32.75,15.46,17.29,4.4
+ORD-10167,2025-03-21,East,Stationery,Pen Pack,Online,2,11.98,0.13,20.85,9.1,11.75,4.1
+ORD-10168,2025-03-22,West,Appliances,Air Purifier,Partner,5,249.39,0.11,1109.79,785.58,324.21,3.7
+ORD-10169,2025-03-21,South,Appliances,Coffee Maker,Partner,6,116.75,0.12,616.44,406.29,210.15,4.3
+ORD-10170,2025-03-02,South,Furniture,Standing Desk,Retail Store,3,428.82,0.1,1157.81,849.06,308.75,4.3
+ORD-10171,2025-03-11,South,Furniture,Office Chair,Online,3,203.24,0.13,530.46,378.03,152.43,3.9
+ORD-10172,2025-03-02,West,Stationery,Pen Pack,Online,5,10.36,0.15,44.03,19.68,24.35,3.9
+ORD-10173,2025-03-13,South,Appliances,Coffee Maker,Online,1,115.33,0.16,96.88,66.89,29.99,4.1
+ORD-10174,2025-03-17,East,Appliances,Coffee Maker,Retail Store,4,120.35,0.1,433.26,279.21,154.05,4.5
+ORD-10175,2025-03-09,South,Electronics,Headphones,Retail Store,4,85.57,0.09,311.47,188.25,123.22,3.4
+ORD-10176,2025-03-12,East,Appliances,Coffee Maker,Retail Store,4,125.72,0.11,447.56,291.67,155.89,4.2
+ORD-10177,2025-03-22,West,Furniture,Standing Desk,Online,4,400.07,0.13,1392.24,1056.18,336.06,4.6
+ORD-10178,2025-03-14,South,Electronics,Laptop,Retail Store,4,841.09,0.11,2994.28,2287.76,706.52,4.1
+ORD-10179,2025-03-08,South,Electronics,Headphones,Partner,4,88.43,0.13,307.74,194.55,113.19,3.9
+ORD-10180,2025-03-23,West,Furniture,Standing Desk,Partner,6,472.98,0.13,2468.96,1873,595.96,4.4
+ORD-10181,2025-03-28,South,Electronics,Headphones,Online,3,92.55,0.16,233.23,152.71,80.52,3.8
+ORD-10182,2025-03-17,West,Furniture,Office Chair,Partner,2,203.83,0.1,366.89,252.75,114.14,4.4
+ORD-10183,2025-03-21,West,Electronics,Laptop,Online,5,829.43,0.12,3649.49,2820.06,829.43,4.2
+ORD-10184,2025-03-11,South,Stationery,Notebook Set,Partner,5,19.43,0.13,84.52,40.8,43.72,3.8
+ORD-10185,2025-03-06,North,Furniture,Office Chair,Online,5,209.01,0.14,898.74,647.93,250.81,4.4
+ORD-10186,2025-03-01,South,Electronics,Headphones,Partner,6,96.93,0.14,500.16,319.87,180.29,4.5
+ORD-10187,2025-03-25,North,Appliances,Air Purifier,Online,2,269.4,0.15,457.98,339.44,118.54,4.4
+ORD-10188,2025-03-20,West,Furniture,Standing Desk,Retail Store,4,398.49,0.08,1466.44,1052.01,414.43,3.5
+ORD-10189,2025-03-07,North,Stationery,Pen Pack,Retail Store,5,10.79,0.09,49.09,20.5,28.59,3.6
+ORD-10190,2025-03-03,West,Electronics,Headphones,Online,5,90.92,0.14,390.96,250.03,140.93,4.2
+ORD-10191,2025-03-20,East,Electronics,Headphones,Online,1,84.29,0.13,73.33,46.36,26.97,3.3
+ORD-10192,2025-03-13,North,Appliances,Coffee Maker,Partner,1,121.44,0.13,105.65,70.44,35.21,4.1
+ORD-10193,2025-03-22,North,Electronics,Laptop,Online,1,830.24,0.15,705.7,564.56,141.14,3.6
+ORD-10194,2025-03-14,West,Furniture,Standing Desk,Retail Store,5,431.3,0.08,1983.98,1423.29,560.69,4.3
+ORD-10195,2025-03-28,North,Electronics,Headphones,Online,3,89.91,0.14,231.97,148.35,83.62,3.8
+ORD-10196,2025-03-19,West,Furniture,Office Chair,Retail Store,4,212.26,0.1,764.14,526.4,237.74,4.2
+ORD-10197,2025-03-05,North,Appliances,Coffee Maker,Partner,4,115.24,0.13,401.04,267.36,133.68,4.5
+ORD-10198,2025-03-02,North,Stationery,Pen Pack,Retail Store,2,11.15,0.1,20.07,8.47,11.6,4.5
+ORD-10199,2025-03-08,West,Stationery,Pen Pack,Online,1,11.78,0.12,10.37,4.48,5.89,4.7
+ORD-10200,2025-03-17,West,Appliances,Coffee Maker,Retail Store,2,121.06,0.12,213.07,140.43,72.64,4.3
+ORD-10201,2025-04-28,West,Furniture,Office Chair,Retail Store,5,233.86,0.04,1122.53,724.97,397.56,4.2
+ORD-10202,2025-04-05,North,Stationery,Pen Pack,Partner,1,11.44,0.09,10.41,4.35,6.06,4.3
+ORD-10203,2025-04-03,East,Appliances,Air Purifier,Partner,3,236.5,0.09,645.64,446.99,198.65,4
+ORD-10204,2025-04-26,East,Stationery,Notebook Set,Partner,1,19.73,0.1,17.76,8.29,9.47,3.5
+ORD-10205,2025-04-03,East,Appliances,Air Purifier,Partner,2,261.81,0.07,486.97,329.88,157.09,3.7
+ORD-10206,2025-04-07,East,Appliances,Coffee Maker,Partner,3,139.56,0.1,376.81,242.83,133.98,3.4
+ORD-10207,2025-04-12,West,Furniture,Office Chair,Retail Store,6,221.86,0.07,1237.98,825.32,412.66,4.4
+ORD-10208,2025-04-14,North,Stationery,Pen Pack,Online,2,11.2,0.09,20.38,8.51,11.87,4.7
+ORD-10209,2025-04-05,East,Stationery,Notebook Set,Partner,3,17.47,0.08,48.22,22.01,26.21,4.5
+ORD-10210,2025-04-20,North,Furniture,Standing Desk,Partner,2,424.65,0.07,789.85,560.54,229.31,4
+ORD-10211,2025-04-24,North,Stationery,Notebook Set,Retail Store,1,16.85,0.05,16.01,7.08,8.93,3.5
+ORD-10212,2025-04-03,North,Appliances,Coffee Maker,Partner,6,131.48,0.09,717.88,457.55,260.33,4.1
+ORD-10213,2025-04-07,East,Stationery,Pen Pack,Online,4,10.9,0.11,38.8,16.57,22.23,4.4
+ORD-10214,2025-04-06,East,Furniture,Standing Desk,Retail Store,3,470.75,0.04,1355.76,932.09,423.67,3.5
+ORD-10215,2025-04-05,East,Stationery,Notebook Set,Retail Store,4,18.58,0.04,71.35,31.21,40.14,3.9
+ORD-10216,2025-04-10,South,Furniture,Standing Desk,Partner,3,468.53,0.07,1307.2,927.69,379.51,4.4
+ORD-10217,2025-04-10,South,Appliances,Coffee Maker,Retail Store,5,132.19,0.07,614.68,383.35,231.33,4.2
+ORD-10218,2025-04-22,North,Appliances,Air Purifier,Partner,2,289.35,0.08,532.4,364.58,167.82,4.5
+ORD-10219,2025-04-06,East,Furniture,Standing Desk,Online,1,409.28,0.11,364.26,270.12,94.14,3.9
+ORD-10220,2025-04-08,South,Electronics,Headphones,Partner,1,84.47,0.07,78.56,46.46,32.1,3.5
+ORD-10221,2025-04-15,North,Electronics,Laptop,Online,2,737.14,0.1,1326.85,1002.51,324.34,3.7
+ORD-10222,2025-04-28,East,Electronics,Laptop,Online,1,819.05,0.11,728.95,556.95,172,4
+ORD-10223,2025-04-17,East,Electronics,Headphones,Online,6,88.76,0.09,484.63,292.91,191.72,3.9
+ORD-10224,2025-04-11,West,Stationery,Notebook Set,Partner,5,19.76,0.1,88.92,41.5,47.42,3.3
+ORD-10225,2025-04-19,West,Furniture,Office Chair,Partner,4,228.91,0.06,860.7,567.7,293,4.2
+ORD-10226,2025-04-24,North,Electronics,Headphones,Retail Store,3,94.57,0.06,266.69,156.04,110.65,4
+ORD-10227,2025-04-02,East,Furniture,Standing Desk,Online,3,389.16,0.09,1062.41,770.54,291.87,4.4
+ORD-10228,2025-04-19,South,Appliances,Air Purifier,Online,5,255.03,0.08,1173.14,803.34,369.8,3.8
+ORD-10229,2025-04-20,South,Stationery,Pen Pack,Online,6,11.58,0.11,61.84,26.4,35.44,4.7
+ORD-10230,2025-04-22,North,Stationery,Pen Pack,Partner,3,11.68,0.09,31.89,13.32,18.57,4.3
+ORD-10231,2025-04-06,North,Furniture,Office Chair,Partner,2,220.44,0.1,396.79,273.35,123.44,3.4
+ORD-10232,2025-04-16,South,Appliances,Air Purifier,Partner,5,237.93,0.09,1082.58,749.48,333.1,4.4
+ORD-10233,2025-04-13,South,Furniture,Standing Desk,Online,4,454.81,0.12,1600.93,1200.7,400.23,4.3
+ORD-10234,2025-04-19,North,Furniture,Office Chair,Online,2,222.52,0.11,396.09,275.92,120.17,3.3
+ORD-10235,2025-04-16,North,Furniture,Standing Desk,Partner,5,438.38,0.06,2060.39,1446.65,613.74,3.3
+ORD-10236,2025-04-26,East,Electronics,Laptop,Partner,5,717.93,0.07,3338.37,2440.96,897.41,4.3
+ORD-10237,2025-04-20,South,Electronics,Laptop,Online,3,867.06,0.1,2341.06,1768.8,572.26,3.9
+ORD-10238,2025-04-25,West,Stationery,Pen Pack,Online,4,11.48,0.11,40.87,17.45,23.42,4.6
+ORD-10239,2025-04-21,South,Appliances,Coffee Maker,Online,4,137.3,0.12,483.3,318.54,164.76,4.1
+ORD-10240,2025-04-01,South,Furniture,Standing Desk,Partner,2,391.5,0.08,720.36,516.78,203.58,3.7
+ORD-10241,2025-04-06,East,Appliances,Air Purifier,Partner,4,261.42,0.07,972.48,658.78,313.7,3.3
+ORD-10242,2025-04-07,South,Appliances,Coffee Maker,Online,4,116.2,0.1,418.32,269.58,148.74,4.2
+ORD-10243,2025-04-04,South,Appliances,Air Purifier,Retail Store,2,237.61,0.06,446.71,299.39,147.32,4.7
+ORD-10244,2025-04-21,North,Stationery,Pen Pack,Online,4,10.04,0.11,35.74,15.26,20.48,3.5
+ORD-10245,2025-04-20,South,Appliances,Air Purifier,Partner,5,253.1,0.07,1176.91,797.26,379.65,3.9
+ORD-10246,2025-04-26,South,Stationery,Pen Pack,Retail Store,5,10.62,0.07,49.38,20.18,29.2,4.7
+ORD-10247,2025-04-07,North,Electronics,Headphones,Online,5,89.87,0.1,404.42,247.14,157.28,4.1
+ORD-10248,2025-04-06,East,Electronics,Headphones,Retail Store,4,98.12,0.07,365.01,215.86,149.15,4.7
+ORD-10249,2025-04-24,East,Appliances,Coffee Maker,Retail Store,6,129.16,0.06,728.46,449.48,278.98,4.7
+ORD-10250,2025-04-20,North,Stationery,Notebook Set,Partner,2,19.34,0.09,35.2,16.25,18.95,4.1
+ORD-10251,2025-04-11,North,Furniture,Standing Desk,Online,5,396.38,0.11,1763.89,1308.05,455.84,4.7
+ORD-10252,2025-04-06,South,Appliances,Air Purifier,Online,4,251.45,0.09,915.28,633.65,281.63,4.4
+ORD-10253,2025-04-06,North,Furniture,Standing Desk,Partner,3,423.93,0.07,1182.76,839.38,343.38,4.7
+ORD-10254,2025-04-21,North,Stationery,Notebook Set,Partner,1,19.29,0.09,17.55,8.1,9.45,4.4
+ORD-10255,2025-04-27,North,Electronics,Laptop,Partner,6,816.23,0.09,4456.62,3330.22,1126.4,4.6
+ORD-10256,2025-04-22,South,Stationery,Pen Pack,Retail Store,4,10.8,0.06,40.61,16.42,24.19,4.2
+ORD-10257,2025-04-11,East,Electronics,Headphones,Partner,6,98.99,0.08,546.42,326.67,219.75,3.6
+ORD-10258,2025-04-19,East,Furniture,Standing Desk,Online,5,475.84,0.11,2117.49,1570.27,547.22,4
+ORD-10259,2025-04-06,East,Stationery,Notebook Set,Online,4,17.86,0.09,65.01,30,35.01,3.9
+ORD-10260,2025-04-17,North,Stationery,Notebook Set,Retail Store,6,16.75,0.05,95.47,42.21,53.26,3.4
+ORD-10261,2025-04-24,East,Electronics,Laptop,Partner,5,866.82,0.09,3944.03,2947.19,996.84,3.8
+ORD-10262,2025-04-14,East,Stationery,Notebook Set,Retail Store,5,18.03,0.07,83.84,37.86,45.98,4
+ORD-10263,2025-04-11,North,Furniture,Standing Desk,Partner,2,457.16,0.09,832.03,603.45,228.58,4.2
+ORD-10264,2025-04-19,West,Furniture,Standing Desk,Partner,4,416.3,0.06,1565.29,1099.03,466.26,3.7
+ORD-10265,2025-04-04,South,Stationery,Notebook Set,Partner,4,16.26,0.06,61.14,27.32,33.82,4.2
+ORD-10266,2025-04-21,East,Appliances,Coffee Maker,Retail Store,3,114.03,0.08,314.72,198.41,116.31,3.4
+ORD-10267,2025-04-20,North,Furniture,Office Chair,Partner,4,190.69,0.09,694.11,472.91,221.2,3.4
+ORD-10268,2025-04-13,North,Electronics,Laptop,Online,2,719.56,0.12,1266.43,978.6,287.83,3.9
+ORD-10269,2025-04-18,East,Electronics,Headphones,Retail Store,1,85.29,0.05,81.03,46.91,34.12,3.5
+ORD-10270,2025-04-13,East,Appliances,Coffee Maker,Retail Store,3,138.57,0.04,399.08,241.11,157.97,4
+ORD-10271,2025-04-09,North,Furniture,Office Chair,Partner,4,222.23,0.06,835.58,551.13,284.45,3.6
+ORD-10272,2025-04-28,West,Stationery,Pen Pack,Retail Store,6,10.5,0.05,59.85,23.94,35.91,3.5
+ORD-10273,2025-04-20,North,Stationery,Pen Pack,Partner,4,11.01,0.08,40.52,16.74,23.78,3.9
+ORD-10274,2025-04-28,West,Appliances,Air Purifier,Partner,2,284.26,0.09,517.35,358.17,159.18,4
+ORD-10275,2025-04-09,West,Electronics,Headphones,Retail Store,5,87.28,0.06,410.22,240.02,170.2,4.5
+ORD-10276,2025-04-18,West,Appliances,Coffee Maker,Partner,3,139.9,0.07,390.32,243.43,146.89,4.5
+ORD-10277,2025-04-21,West,Stationery,Pen Pack,Partner,2,10.4,0.09,18.93,7.9,11.03,3.4
+ORD-10278,2025-04-08,West,Electronics,Headphones,Retail Store,3,84.89,0.08,234.3,140.07,94.23,4.1
+ORD-10279,2025-05-07,North,Appliances,Coffee Maker,Partner,6,112.82,0.1,609.23,392.61,216.62,3.7
+ORD-10280,2025-05-27,West,Electronics,Headphones,Online,4,96.97,0.08,356.85,213.33,143.52,3.9
+ORD-10281,2025-05-14,South,Electronics,Headphones,Partner,2,101.46,0.08,186.69,111.61,75.08,4.5
+ORD-10282,2025-05-20,North,Stationery,Pen Pack,Retail Store,4,12.24,0.06,46.02,18.6,27.42,4.1
+ORD-10283,2025-05-17,West,Electronics,Headphones,Retail Store,3,102.06,0.06,287.81,168.4,119.41,3.4
+ORD-10284,2025-05-08,West,Appliances,Coffee Maker,Online,4,125.78,0.11,447.78,291.81,155.97,4.4
+ORD-10285,2025-05-09,South,Appliances,Air Purifier,Retail Store,2,240.31,0.07,446.98,302.79,144.19,3.7
+ORD-10286,2025-05-01,West,Furniture,Office Chair,Partner,2,216.94,0.06,407.85,269.01,138.84,4.3
+ORD-10287,2025-05-24,East,Furniture,Office Chair,Partner,5,191.18,0.07,888.99,592.66,296.33,4.5
+ORD-10288,2025-05-18,West,Stationery,Pen Pack,Online,2,11.66,0.08,21.45,8.86,12.59,3.4
+ORD-10289,2025-05-14,East,Appliances,Coffee Maker,Partner,6,136.17,0.06,768,473.87,294.13,3.8
+ORD-10290,2025-05-22,West,Furniture,Standing Desk,Online,3,397.06,0.11,1060.15,786.18,273.97,3.6
+ORD-10291,2025-05-07,East,Appliances,Coffee Maker,Retail Store,3,137.58,0.06,387.98,239.39,148.59,3.6
+ORD-10292,2025-05-10,South,Stationery,Pen Pack,Online,5,11.5,0.08,52.9,21.85,31.05,4.3
+ORD-10293,2025-05-08,East,Stationery,Notebook Set,Partner,6,18.73,0.09,102.27,47.2,55.07,3.9
+ORD-10294,2025-05-12,North,Appliances,Air Purifier,Online,5,279.64,0.08,1286.34,880.87,405.47,4.4
+ORD-10295,2025-05-16,North,Stationery,Pen Pack,Retail Store,3,10.78,0.05,30.72,12.29,18.43,3.4
+ORD-10296,2025-05-15,North,Appliances,Air Purifier,Online,3,246.17,0.1,664.66,465.26,199.4,3.4
+ORD-10297,2025-05-11,North,Stationery,Notebook Set,Partner,5,16.63,0.1,74.83,34.92,39.91,4.3
+ORD-10298,2025-05-09,South,Appliances,Coffee Maker,Online,4,132.04,0.11,470.06,306.33,163.73,3.5
+ORD-10299,2025-05-26,South,Furniture,Standing Desk,Online,5,426.36,0.1,1918.62,1406.99,511.63,3.5
+ORD-10300,2025-05-05,East,Electronics,Headphones,Retail Store,5,83.08,0.08,382.17,228.47,153.7,4.7
+ORD-10301,2025-05-25,South,Appliances,Air Purifier,Partner,5,242.31,0.06,1138.86,763.28,375.58,4.6
+ORD-10302,2025-05-20,North,Appliances,Coffee Maker,Partner,2,128.39,0.1,231.1,148.93,82.17,4
+ORD-10303,2025-05-24,West,Furniture,Standing Desk,Partner,3,415.05,0.07,1157.99,821.8,336.19,4.4
+ORD-10304,2025-05-08,South,Furniture,Standing Desk,Online,5,424.92,0.09,1933.39,1402.24,531.15,3.5
+ORD-10305,2025-05-05,East,Appliances,Air Purifier,Retail Store,4,280.91,0.05,1067.46,707.89,359.57,4
+ORD-10306,2025-05-19,East,Stationery,Pen Pack,Partner,6,11.93,0.09,65.14,27.2,37.94,4.4
+ORD-10307,2025-05-07,North,Electronics,Laptop,Online,2,775.6,0.11,1380.57,1054.82,325.75,4.6
+ORD-10308,2025-05-16,West,Appliances,Air Purifier,Retail Store,4,257.57,0.06,968.46,649.08,319.38,4.1
+ORD-10309,2025-05-05,South,Furniture,Standing Desk,Online,2,425.86,0.08,783.58,562.14,221.44,3.8
+ORD-10310,2025-05-06,South,Stationery,Pen Pack,Partner,4,11.42,0.07,42.48,17.36,25.12,3.7
+ORD-10311,2025-05-11,East,Electronics,Headphones,Retail Store,6,91.74,0.06,517.41,302.74,214.67,3.7
+ORD-10312,2025-05-23,East,Electronics,Headphones,Online,2,98.78,0.12,173.85,108.66,65.19,3.7
+ORD-10313,2025-05-03,South,Electronics,Headphones,Retail Store,2,90.84,0.07,168.96,99.92,69.04,3.7
+ORD-10314,2025-05-07,West,Electronics,Headphones,Online,4,98.94,0.11,352.23,217.67,134.56,3.9
+ORD-10315,2025-05-27,South,Electronics,Laptop,Partner,2,730.58,0.08,1344.27,993.59,350.68,4.6
+ORD-10316,2025-05-17,West,Electronics,Laptop,Partner,5,869.81,0.09,3957.64,2957.35,1000.29,4
+ORD-10317,2025-05-17,North,Appliances,Coffee Maker,Retail Store,4,125.23,0.06,470.86,290.53,180.33,4.2
+ORD-10318,2025-05-17,East,Furniture,Office Chair,Partner,6,229.99,0.08,1269.54,855.56,413.98,4.4
+ORD-10319,2025-05-02,West,Electronics,Laptop,Retail Store,5,811.53,0.08,3733.04,2759.2,973.84,4.5
+ORD-10320,2025-05-11,East,Electronics,Laptop,Partner,3,723.55,0.06,2040.41,1476.04,564.37,4.2
+ORD-10321,2025-05-18,South,Stationery,Notebook Set,Online,2,18.16,0.11,32.32,15.25,17.07,3.7
+ORD-10322,2025-05-25,South,Appliances,Air Purifier,Partner,2,242.53,0.07,451.11,305.59,145.52,3.3
+ORD-10323,2025-05-04,South,Appliances,Air Purifier,Online,1,239.42,0.11,213.08,150.83,62.25,4.1
+ORD-10324,2025-05-16,South,Stationery,Notebook Set,Online,5,16.53,0.08,76.04,34.71,41.33,3.5
+ORD-10325,2025-05-19,South,Appliances,Coffee Maker,Partner,1,128.45,0.06,120.74,74.5,46.24,4.5
+ORD-10326,2025-05-21,West,Stationery,Notebook Set,Retail Store,2,18.32,0.07,34.08,15.39,18.69,4.6
+ORD-10327,2025-05-01,East,Electronics,Laptop,Online,2,869.67,0.09,1582.8,1182.75,400.05,3.7
+ORD-10328,2025-05-11,North,Stationery,Notebook Set,Online,2,17.81,0.11,31.7,14.96,16.74,4.2
+ORD-10329,2025-05-14,East,Furniture,Standing Desk,Retail Store,3,388.28,0.06,1094.95,768.79,326.16,4.2
+ORD-10330,2025-05-17,South,Electronics,Headphones,Partner,5,97.02,0.09,441.44,266.81,174.63,4
+ORD-10331,2025-05-01,West,Stationery,Pen Pack,Online,5,12.15,0.09,55.28,23.09,32.19,4.4
+ORD-10332,2025-05-02,East,Electronics,Headphones,Retail Store,6,89.91,0.07,501.7,296.7,205,3.4
+ORD-10333,2025-05-08,East,Stationery,Notebook Set,Partner,2,17.35,0.09,31.58,14.57,17.01,3.9
+ORD-10334,2025-05-22,South,Appliances,Air Purifier,Retail Store,3,234.53,0.07,654.34,443.26,211.08,4.5
+ORD-10335,2025-05-21,South,Stationery,Pen Pack,Retail Store,2,11.83,0.06,22.24,8.99,13.25,4
+ORD-10336,2025-05-16,South,Electronics,Headphones,Retail Store,4,100.59,0.08,370.17,221.3,148.87,3.5
+ORD-10337,2025-05-18,South,Stationery,Pen Pack,Online,1,10.16,0.08,9.35,3.86,5.49,4.4
+ORD-10338,2025-05-16,South,Furniture,Office Chair,Retail Store,5,212.91,0.07,990.03,660.02,330.01,3.6
+ORD-10339,2025-06-04,South,Furniture,Standing Desk,Online,4,434.31,0.11,1546.14,1146.58,399.56,3.8
+ORD-10340,2025-06-04,East,Electronics,Laptop,Partner,6,707.63,0.09,3863.66,2887.13,976.53,3.9
+ORD-10341,2025-06-03,East,Electronics,Laptop,Retail Store,1,851.2,0.05,808.64,578.82,229.82,4.7
+ORD-10342,2025-06-11,West,Stationery,Notebook Set,Online,2,19.87,0.12,34.97,16.69,18.28,4.2
+ORD-10343,2025-06-25,South,Furniture,Office Chair,Partner,2,216.65,0.09,394.3,268.65,125.65,4.6
+ORD-10344,2025-06-23,West,Furniture,Office Chair,Partner,4,233.16,0.06,876.68,578.24,298.44,3.6
+ORD-10345,2025-06-22,South,Furniture,Office Chair,Online,1,213.01,0.09,193.84,132.07,61.77,3.5
+ORD-10346,2025-06-03,South,Appliances,Coffee Maker,Retail Store,2,128.68,0.08,236.77,149.27,87.5,4.4
+ORD-10347,2025-06-19,East,Appliances,Coffee Maker,Retail Store,2,116.09,0.06,218.25,134.66,83.59,3.9
+ORD-10348,2025-06-23,North,Furniture,Office Chair,Online,3,200.1,0.08,552.28,372.19,180.09,3.5
+ORD-10349,2025-06-17,West,Stationery,Notebook Set,Partner,4,16.82,0.09,61.22,28.26,32.96,3.7
+ORD-10350,2025-06-17,North,Electronics,Headphones,Online,3,99.73,0.1,269.27,164.55,104.72,4.6
+ORD-10351,2025-06-22,North,Furniture,Standing Desk,Online,7,397.43,0.1,2503.81,1836.13,667.68,4.4
+ORD-10352,2025-06-20,South,Furniture,Standing Desk,Retail Store,3,422.33,0.07,1178.3,836.21,342.09,3.7
+ORD-10353,2025-06-04,East,Electronics,Headphones,Partner,6,100.25,0.1,541.35,330.83,210.52,3.5
+ORD-10354,2025-06-01,North,Stationery,Pen Pack,Partner,4,11.06,0.08,40.7,16.81,23.89,3.6
+ORD-10355,2025-06-16,South,Stationery,Pen Pack,Partner,4,10.37,0.09,37.75,15.76,21.99,3.5
+ORD-10356,2025-06-20,East,Furniture,Office Chair,Online,3,234.43,0.08,647.03,436.04,210.99,4
+ORD-10357,2025-06-03,North,Electronics,Laptop,Retail Store,6,764.63,0.04,4404.27,3119.69,1284.58,4.7
+ORD-10358,2025-06-04,West,Electronics,Laptop,Retail Store,3,782.22,0.06,2205.86,1595.73,610.13,4.2
+ORD-10359,2025-06-13,South,Stationery,Pen Pack,Online,5,11.54,0.09,52.51,21.93,30.58,3.4
+ORD-10360,2025-06-17,South,Appliances,Coffee Maker,Partner,2,135.57,0.09,246.74,157.26,89.48,4
+ORD-10361,2025-06-05,East,Electronics,Laptop,Retail Store,6,707.25,0.05,4031.32,2885.58,1145.74,3.5
+ORD-10362,2025-06-07,South,Appliances,Air Purifier,Partner,2,284.75,0.1,512.55,358.79,153.76,3.4
+ORD-10363,2025-06-28,North,Furniture,Office Chair,Retail Store,2,211.89,0.06,398.35,262.74,135.61,4
+ORD-10364,2025-06-20,West,Electronics,Laptop,Retail Store,5,847.67,0.05,4026.43,2882.08,1144.35,4.3
+ORD-10365,2025-06-05,East,Stationery,Pen Pack,Partner,3,12,0.08,33.12,13.68,19.44,3.9
+ORD-10366,2025-06-07,East,Stationery,Notebook Set,Online,2,20.04,0.1,36.07,16.83,19.24,3.6
+ORD-10367,2025-06-22,East,Electronics,Headphones,Partner,4,87.41,0.08,321.67,192.3,129.37,4
+ORD-10368,2025-06-01,East,Stationery,Pen Pack,Retail Store,5,10.05,0.06,47.23,19.09,28.14,4
+ORD-10369,2025-06-01,West,Furniture,Office Chair,Retail Store,6,212.96,0.04,1226.65,792.21,434.44,4.6
+ORD-10370,2025-06-17,West,Electronics,Laptop,Retail Store,6,716.28,0.05,4082.8,2922.42,1160.38,4.1
+ORD-10371,2025-06-15,North,Appliances,Air Purifier,Online,6,239.22,0.09,1306.14,904.25,401.89,4.2
+ORD-10372,2025-06-02,North,Electronics,Headphones,Partner,6,96.44,0.08,532.35,318.25,214.1,3.4
+ORD-10373,2025-06-19,North,Appliances,Coffee Maker,Partner,2,120.11,0.09,218.6,139.33,79.27,3.3
+ORD-10374,2025-06-11,West,Electronics,Laptop,Retail Store,4,829.1,0.06,3117.42,2255.15,862.27,3.9
+ORD-10375,2025-06-27,North,Stationery,Notebook Set,Online,6,19.94,0.1,107.68,50.25,57.43,4.4
+ORD-10376,2025-06-24,North,Stationery,Pen Pack,Retail Store,4,9.92,0.05,37.7,15.08,22.62,3.8
+ORD-10377,2025-06-06,North,Furniture,Office Chair,Retail Store,5,192.19,0.04,922.51,595.79,326.72,4.2
+ORD-10378,2025-06-06,North,Furniture,Standing Desk,Retail Store,4,443.09,0.04,1701.47,1169.76,531.71,4.7
+ORD-10379,2025-06-26,West,Electronics,Headphones,Retail Store,4,88.61,0.06,333.17,194.94,138.23,3.5
+ORD-10380,2025-06-03,West,Electronics,Headphones,Retail Store,2,93.83,0.07,174.52,103.21,71.31,3.6
+ORD-10381,2025-06-20,South,Furniture,Office Chair,Retail Store,6,210.49,0.04,1212.42,783.02,429.4,4.3
+ORD-10382,2025-06-09,West,Furniture,Office Chair,Partner,3,208.96,0.06,589.27,388.67,200.6,3.5
+ORD-10383,2025-06-10,North,Stationery,Notebook Set,Partner,3,17.22,0.08,47.53,21.7,25.83,3.5
+ORD-10384,2025-06-03,West,Furniture,Standing Desk,Online,2,471.23,0.08,867.06,622.02,245.04,3.7
+ORD-10385,2025-06-11,East,Electronics,Laptop,Online,5,817.85,0.11,3639.43,2780.69,858.74,4.2
+ORD-10386,2025-06-13,South,Electronics,Laptop,Partner,3,734.72,0.09,2005.79,1498.83,506.96,4.5
+ORD-10387,2025-06-06,South,Electronics,Laptop,Partner,4,811.59,0.09,2954.19,2207.52,746.67,4.3
+ORD-10388,2025-06-17,South,Electronics,Headphones,Retail Store,6,98.98,0.06,558.25,326.63,231.62,3.4
+ORD-10389,2025-06-15,West,Appliances,Air Purifier,Retail Store,4,265.44,0.07,987.44,668.91,318.53,3.8
+ORD-10390,2025-06-01,South,Furniture,Office Chair,Partner,2,232.53,0.08,427.86,288.34,139.52,4.2
+ORD-10391,2025-06-17,West,Electronics,Headphones,Online,6,99.99,0.09,545.95,329.97,215.98,4.5
+ORD-10392,2025-06-01,East,Electronics,Headphones,Online,5,86.16,0.11,383.41,236.94,146.47,4.4
+ORD-10393,2025-06-15,South,Stationery,Pen Pack,Partner,7,11.3,0.07,73.56,30.06,43.5,4.4
+ORD-10394,2025-06-27,East,Electronics,Laptop,Online,1,856.59,0.08,788.06,582.48,205.58,4.7
+ORD-10395,2025-06-18,West,Stationery,Pen Pack,Online,2,12.2,0.11,21.72,9.27,12.45,3.6
+ORD-10396,2025-06-12,West,Electronics,Laptop,Partner,4,706.12,0.08,2598.52,1920.65,677.87,4.3
+ORD-10397,2025-06-22,West,Appliances,Air Purifier,Online,6,285.39,0.09,1558.23,1078.77,479.46,3.8
+ORD-10398,2025-07-18,West,Stationery,Pen Pack,Partner,2,10.51,0.12,18.5,7.99,10.51,4
+ORD-10399,2025-07-15,West,Furniture,Standing Desk,Retail Store,2,440.78,0.11,784.59,581.83,202.76,3.5
+ORD-10400,2025-07-07,East,Furniture,Standing Desk,Online,5,455.25,0.14,1957.58,1502.33,455.25,3.6
+ORD-10401,2025-07-23,East,Furniture,Office Chair,Partner,4,227.43,0.11,809.65,564.03,245.62,4.2
+ORD-10402,2025-07-06,West,Stationery,Pen Pack,Retail Store,2,11.17,0.12,19.66,8.49,11.17,3.7
+ORD-10403,2025-07-20,West,Appliances,Coffee Maker,Partner,2,113.3,0.11,201.67,131.43,70.24,3.8
+ORD-10404,2025-07-21,North,Furniture,Office Chair,Partner,4,216.78,0.1,780.41,537.61,242.8,4.4
+ORD-10405,2025-07-14,South,Furniture,Office Chair,Online,3,200.34,0.13,522.89,372.63,150.26,4.3
+ORD-10406,2025-07-14,North,Stationery,Pen Pack,Partner,6,11.74,0.11,62.69,26.77,35.92,3.7
+ORD-10407,2025-07-21,West,Stationery,Notebook Set,Retail Store,6,16.54,0.11,88.32,41.68,46.64,4.4
+ORD-10408,2025-07-10,East,Appliances,Air Purifier,Retail Store,3,290.14,0.08,800.79,548.36,252.43,4
+ORD-10409,2025-07-16,East,Appliances,Air Purifier,Partner,6,290.65,0.12,1534.63,1098.66,435.97,4.1
+ORD-10410,2025-07-22,East,Appliances,Coffee Maker,Online,2,132.85,0.12,233.82,154.11,79.71,4.2
+ORD-10411,2025-07-16,North,Furniture,Standing Desk,Online,3,438.24,0.16,1104.36,867.72,236.64,4.3
+ORD-10412,2025-07-22,North,Appliances,Air Purifier,Partner,4,251.64,0.14,865.64,634.13,231.51,3.4
+ORD-10413,2025-07-24,North,Appliances,Coffee Maker,Online,7,134.01,0.12,825.5,544.08,281.42,3.7
+ORD-10414,2025-07-25,South,Electronics,Headphones,Retail Store,4,84.32,0.09,306.92,185.5,121.42,3.5
+ORD-10415,2025-07-05,East,Appliances,Coffee Maker,Partner,3,126.92,0.13,331.26,220.84,110.42,4.5
+ORD-10416,2025-07-10,East,Stationery,Pen Pack,Partner,3,11.97,0.13,31.24,13.65,17.59,3.5
+ORD-10417,2025-07-28,East,Stationery,Notebook Set,Online,2,18.83,0.13,32.76,15.82,16.94,4
+ORD-10418,2025-07-02,West,Stationery,Notebook Set,Partner,6,17.01,0.13,88.79,42.87,45.92,4
+ORD-10419,2025-07-15,East,Electronics,Laptop,Online,6,786.49,0.14,4058.29,3208.88,849.41,3.4
+ORD-10420,2025-07-24,East,Appliances,Coffee Maker,Partner,2,132.46,0.11,235.78,153.65,82.13,4.6
+ORD-10421,2025-07-22,South,Appliances,Air Purifier,Retail Store,4,234.47,0.12,825.33,590.86,234.47,4.7
+ORD-10422,2025-07-05,East,Electronics,Laptop,Online,2,769.23,0.16,1292.31,1046.15,246.16,3.4
+ORD-10423,2025-07-19,South,Stationery,Notebook Set,Partner,4,17.12,0.11,60.95,28.76,32.19,4
+ORD-10424,2025-07-17,West,Stationery,Notebook Set,Partner,5,19.56,0.11,87.04,41.08,45.96,3.8
+ORD-10425,2025-07-28,North,Furniture,Standing Desk,Partner,3,435.63,0.13,1136.99,862.55,274.44,4.3
+ORD-10426,2025-07-15,West,Stationery,Notebook Set,Online,1,19.1,0.12,16.81,8.02,8.79,3.5
+ORD-10427,2025-07-17,North,Stationery,Notebook Set,Online,4,19.59,0.15,66.61,32.91,33.7,4
+ORD-10428,2025-07-14,North,Stationery,Notebook Set,Online,6,20.09,0.12,106.08,50.63,55.45,3.8
+ORD-10429,2025-07-12,West,Stationery,Pen Pack,Retail Store,5,10.41,0.08,47.89,19.78,28.11,3.3
+ORD-10430,2025-07-28,West,Appliances,Air Purifier,Online,4,242.65,0.15,825.01,611.48,213.53,3.9
+ORD-10431,2025-07-12,North,Furniture,Standing Desk,Partner,5,463.19,0.11,2061.2,1528.53,532.67,4.6
+ORD-10432,2025-07-23,South,Appliances,Coffee Maker,Retail Store,5,132.19,0.09,601.46,383.35,218.11,3.9
+ORD-10433,2025-07-23,South,Electronics,Laptop,Partner,3,779.46,0.12,2057.77,1590.1,467.67,3.9
+ORD-10434,2025-07-26,East,Appliances,Coffee Maker,Partner,5,123.39,0.12,542.92,357.83,185.09,4.4
+ORD-10435,2025-07-03,East,Furniture,Standing Desk,Online,7,467.68,0.15,2782.7,2160.68,622.02,4.1
+ORD-10436,2025-07-14,North,Appliances,Air Purifier,Retail Store,5,260.38,0.11,1158.69,820.2,338.49,4.5
+ORD-10437,2025-07-01,West,Electronics,Headphones,Online,6,101.48,0.16,511.46,334.88,176.58,4.4
+ORD-10438,2025-07-05,South,Electronics,Headphones,Retail Store,7,83.73,0.08,539.22,322.36,216.86,4.2
+ORD-10439,2025-07-22,East,Stationery,Notebook Set,Partner,4,16.58,0.13,57.7,27.85,29.85,4.3
+ORD-10440,2025-07-26,East,Appliances,Coffee Maker,Online,6,125.2,0.14,646.03,435.7,210.33,4.4
+ORD-10441,2025-07-26,North,Furniture,Standing Desk,Partner,4,447.28,0.12,1574.43,1180.82,393.61,3.7
+ORD-10442,2025-07-06,West,Stationery,Notebook Set,Partner,7,18.21,0.12,112.17,53.54,58.63,3.5
+ORD-10443,2025-07-15,South,Electronics,Headphones,Online,5,102.23,0.15,434.48,281.13,153.35,4.4
+ORD-10444,2025-07-28,West,Appliances,Air Purifier,Partner,4,279.11,0.1,1004.8,703.36,301.44,3.5
+ORD-10445,2025-07-07,South,Electronics,Laptop,Online,3,862.3,0.15,2198.86,1759.09,439.77,3.5
+ORD-10446,2025-07-24,North,Appliances,Coffee Maker,Online,5,113.01,0.14,485.94,327.73,158.21,3.8
+ORD-10447,2025-07-12,North,Furniture,Office Chair,Online,6,198.26,0.14,1023.02,737.53,285.49,4.1
+ORD-10448,2025-07-02,West,Furniture,Office Chair,Retail Store,7,204.76,0.1,1289.99,888.66,401.33,3.9
+ORD-10449,2025-07-27,North,Furniture,Standing Desk,Retail Store,6,432.65,0.09,2362.27,1713.29,648.98,3.5
+ORD-10450,2025-07-17,South,Furniture,Office Chair,Online,5,218.52,0.14,939.64,677.41,262.23,3.3
+ORD-10451,2025-07-17,North,Appliances,Air Purifier,Online,7,285.47,0.13,1738.51,1258.92,479.59,3.5
+ORD-10452,2025-07-05,West,Electronics,Laptop,Partner,6,847.2,0.12,4473.22,3456.58,1016.64,3.4
+ORD-10453,2025-07-25,South,Appliances,Air Purifier,Partner,3,249.97,0.11,667.42,472.44,194.98,3.3
+ORD-10454,2025-07-11,East,Appliances,Air Purifier,Partner,5,248.94,0.14,1070.44,784.16,286.28,4.3
+ORD-10455,2025-07-06,South,Electronics,Laptop,Retail Store,6,782.41,0.11,4178.07,3192.23,985.84,4.2
+ORD-10456,2025-07-20,North,Electronics,Laptop,Online,7,849.41,0.14,5113.45,4043.19,1070.26,3.7
+ORD-10457,2025-07-26,North,Stationery,Notebook Set,Online,6,18.77,0.13,97.98,47.3,50.68,3.3
+ORD-10458,2025-07-18,West,Appliances,Coffee Maker,Retail Store,4,129.12,0.08,475.16,299.56,175.6,4.3
+ORD-10459,2025-07-11,North,Stationery,Pen Pack,Retail Store,5,11.46,0.09,52.14,21.77,30.37,4.4
+ORD-10460,2025-07-18,South,Stationery,Pen Pack,Partner,3,11.75,0.13,30.67,13.39,17.28,4.7
+ORD-10461,2025-07-28,South,Stationery,Pen Pack,Online,4,10.49,0.16,35.25,15.94,19.31,4
+ORD-10462,2025-08-13,South,Electronics,Laptop,Retail Store,4,866.59,0.05,3293.04,2357.12,935.92,4.2
+ORD-10463,2025-08-22,West,Electronics,Headphones,Online,5,86.18,0.1,387.81,237,150.81,3.9
+ORD-10464,2025-08-04,South,Furniture,Office Chair,Retail Store,3,226.18,0.07,631.04,420.69,210.35,3.7
+ORD-10465,2025-08-03,South,Electronics,Headphones,Online,1,89.7,0.08,82.52,49.34,33.18,3.4
+ORD-10466,2025-08-20,North,Appliances,Air Purifier,Online,2,255.79,0.1,460.42,322.3,138.12,4.4
+ORD-10467,2025-08-20,West,Electronics,Headphones,Online,5,83.02,0.1,373.59,228.31,145.28,4.1
+ORD-10468,2025-08-20,East,Furniture,Standing Desk,Online,3,406.53,0.12,1073.24,804.93,268.31,4
+ORD-10469,2025-08-09,West,Appliances,Coffee Maker,Partner,3,120.88,0.07,337.26,210.33,126.93,3.5
+ORD-10470,2025-08-19,North,Electronics,Laptop,Retail Store,5,793.98,0.06,3731.71,2699.53,1032.18,4.7
+ORD-10471,2025-08-06,North,Appliances,Air Purifier,Online,4,269.42,0.09,980.69,678.94,301.75,4.3
+ORD-10472,2025-08-26,North,Appliances,Air Purifier,Online,1,258.12,0.08,237.47,162.62,74.85,3.9
+ORD-10473,2025-08-20,West,Furniture,Office Chair,Partner,3,220.35,0.09,601.56,409.85,191.71,3.6
+ORD-10474,2025-08-09,West,Appliances,Air Purifier,Partner,3,278.4,0.08,768.38,526.18,242.2,4.6
+ORD-10475,2025-08-07,East,Appliances,Air Purifier,Retail Store,6,268.25,0.07,1496.83,1013.99,482.84,4.6
+ORD-10476,2025-08-08,West,Electronics,Laptop,Partner,4,776.66,0.1,2795.98,2112.52,683.46,4.6
+ORD-10477,2025-08-02,South,Appliances,Coffee Maker,Online,5,138.63,0.1,623.84,402.03,221.81,4.3
+ORD-10478,2025-08-09,North,Electronics,Laptop,Retail Store,2,739.57,0.05,1405.18,1005.82,399.36,3.9
+ORD-10479,2025-08-28,North,Stationery,Pen Pack,Online,4,11.88,0.1,42.77,18.06,24.71,4.2
+ORD-10480,2025-08-03,South,Appliances,Air Purifier,Retail Store,5,291,0.04,1396.8,916.65,480.15,3.5
+ORD-10481,2025-08-11,South,Electronics,Laptop,Retail Store,1,852.04,0.06,800.92,579.39,221.53,4.4
+ORD-10482,2025-08-01,West,Stationery,Notebook Set,Online,3,19.16,0.1,51.73,24.14,27.59,4.7
+ORD-10483,2025-08-23,North,Furniture,Standing Desk,Partner,4,426.77,0.07,1587.58,1126.67,460.91,4.6
+ORD-10484,2025-08-09,West,Stationery,Notebook Set,Partner,5,18.66,0.09,84.9,39.19,45.71,4.3
+ORD-10485,2025-08-26,North,Electronics,Laptop,Partner,5,782.69,0.08,3600.37,2661.15,939.22,4.3
+ORD-10486,2025-08-15,South,Appliances,Air Purifier,Partner,4,234.5,0.08,862.96,590.94,272.02,3.8
+ORD-10487,2025-08-07,North,Stationery,Notebook Set,Retail Store,4,19.38,0.08,71.32,32.56,38.76,3.4
+ORD-10488,2025-08-18,East,Appliances,Coffee Maker,Online,5,128.8,0.09,586.04,373.52,212.52,4.1
+ORD-10489,2025-08-02,West,Furniture,Office Chair,Partner,4,190.07,0.08,699.46,471.37,228.09,3.9
+ORD-10490,2025-08-18,North,Electronics,Laptop,Retail Store,3,773.87,0.08,2135.88,1578.69,557.19,3.5
+ORD-10491,2025-08-03,East,Appliances,Air Purifier,Retail Store,2,270.2,0.08,497.17,340.45,156.72,3.4
+ORD-10492,2025-08-13,North,Furniture,Standing Desk,Online,3,477.4,0.1,1288.98,945.25,343.73,4.2
+ORD-10493,2025-08-12,West,Furniture,Standing Desk,Partner,6,394.97,0.09,2156.54,1564.08,592.46,3.8
+ORD-10494,2025-08-22,West,Appliances,Air Purifier,Partner,3,242.96,0.09,663.28,459.19,204.09,4.3
+ORD-10495,2025-08-09,West,Appliances,Coffee Maker,Online,4,135.79,0.12,477.98,315.03,162.95,3.6
+ORD-10496,2025-08-24,North,Electronics,Headphones,Online,6,93.4,0.09,509.96,308.22,201.74,4
+ORD-10497,2025-08-25,East,Appliances,Coffee Maker,Retail Store,2,125.42,0.08,230.77,145.49,85.28,3.7
+ORD-10498,2025-08-05,South,Furniture,Standing Desk,Retail Store,4,402.89,0.04,1547.1,1063.63,483.47,4.3
+ORD-10499,2025-08-02,South,Electronics,Laptop,Partner,1,812.42,0.06,763.67,552.45,211.22,3.7
+ORD-10500,2025-08-16,South,Stationery,Pen Pack,Partner,3,12.02,0.07,33.54,13.7,19.84,3.3
+ORD-10501,2025-08-11,South,Appliances,Air Purifier,Online,7,249,0.12,1533.84,1098.09,435.75,3.8
+ORD-10502,2025-08-20,South,Furniture,Standing Desk,Partner,5,402.47,0.09,1831.24,1328.15,503.09,3.9
+ORD-10503,2025-08-21,North,Furniture,Standing Desk,Partner,3,433.1,0.08,1195.36,857.54,337.82,4
+ORD-10504,2025-08-05,West,Electronics,Headphones,Retail Store,2,89.94,0.05,170.89,98.93,71.96,4.3
+ORD-10505,2025-08-07,West,Appliances,Air Purifier,Partner,6,280.28,0.1,1513.51,1059.46,454.05,3.9
+ORD-10506,2025-08-28,West,Furniture,Office Chair,Retail Store,3,217.65,0.05,620.3,404.83,215.47,3.8
+ORD-10507,2025-08-27,South,Furniture,Standing Desk,Online,4,397.34,0.08,1462.21,1048.98,413.23,4.1
+ORD-10508,2025-08-22,South,Electronics,Headphones,Retail Store,5,84.16,0.04,403.97,231.44,172.53,3.7
+ORD-10509,2025-08-23,East,Electronics,Laptop,Partner,5,826.21,0.08,3800.57,2809.11,991.46,4.1
+ORD-10510,2025-08-09,South,Appliances,Air Purifier,Retail Store,4,278.63,0.05,1058.79,702.15,356.64,4.4
+ORD-10511,2025-08-12,East,Electronics,Laptop,Retail Store,6,788.72,0.07,4401.06,3217.98,1183.08,4.1
+ORD-10512,2025-08-10,East,Appliances,Air Purifier,Retail Store,6,285.11,0.05,1625.13,1077.72,547.41,3.6
+ORD-10513,2025-08-22,South,Electronics,Laptop,Online,3,853.96,0.11,2280.07,1742.08,537.99,3.9
+ORD-10514,2025-08-18,East,Stationery,Notebook Set,Retail Store,5,18.78,0.08,86.39,39.44,46.95,4.7
+ORD-10515,2025-08-06,East,Furniture,Office Chair,Online,6,232.32,0.11,1240.59,864.23,376.36,3.5
+ORD-10516,2025-08-13,South,Furniture,Standing Desk,Retail Store,6,431.67,0.07,2408.72,1709.41,699.31,3.5
+ORD-10517,2025-08-28,North,Furniture,Office Chair,Partner,2,209.27,0.1,376.69,259.49,117.2,3.4
+ORD-10518,2025-08-20,North,Furniture,Standing Desk,Partner,3,387.75,0.08,1070.19,767.75,302.44,3.6
+ORD-10519,2025-08-12,East,Appliances,Air Purifier,Partner,3,287.38,0.09,784.55,543.15,241.4,3.7
+ORD-10520,2025-08-12,North,Appliances,Coffee Maker,Online,3,118.26,0.08,326.4,205.77,120.63,3.8
+ORD-10521,2025-08-13,South,Electronics,Laptop,Partner,2,838.24,0.07,1559.13,1140.01,419.12,3.4
+ORD-10522,2025-08-25,South,Appliances,Air Purifier,Partner,4,256.21,0.1,922.36,645.65,276.71,4.3
+ORD-10523,2025-08-15,South,Appliances,Air Purifier,Online,2,250.33,0.12,440.58,315.42,125.16,4.1
+ORD-10524,2025-08-07,East,Appliances,Air Purifier,Partner,4,249.89,0.07,929.59,629.72,299.87,4
+ORD-10525,2025-08-12,South,Furniture,Standing Desk,Retail Store,6,446.3,0.04,2570.69,1767.35,803.34,3.7
+ORD-10526,2025-08-10,East,Electronics,Laptop,Online,5,718.73,0.08,3306.16,2443.68,862.48,4.1
+ORD-10527,2025-08-03,South,Stationery,Notebook Set,Online,2,16.41,0.1,29.54,13.78,15.76,4.6
+ORD-10528,2025-08-18,West,Stationery,Notebook Set,Online,2,18.63,0.09,33.91,15.65,18.26,4.3
+ORD-10529,2025-08-11,West,Appliances,Coffee Maker,Online,4,136.67,0.1,492.01,317.07,174.94,3.5
+ORD-10530,2025-08-24,North,Appliances,Coffee Maker,Retail Store,2,118.17,0.06,222.16,137.08,85.08,4.7
+ORD-10531,2025-08-26,West,Stationery,Pen Pack,Retail Store,3,11.26,0.04,32.43,12.84,19.59,4.4
+ORD-10532,2025-08-28,South,Furniture,Standing Desk,Partner,2,474.28,0.1,853.7,626.05,227.65,4
+ORD-10533,2025-08-26,North,Appliances,Coffee Maker,Partner,3,133.34,0.09,364.02,232.01,132.01,4.2
+ORD-10534,2025-08-26,South,Electronics,Headphones,Online,5,93.93,0.1,422.69,258.31,164.38,4.5
+ORD-10535,2025-08-28,East,Stationery,Notebook Set,Partner,2,17.77,0.08,32.7,14.93,17.77,4.5
+ORD-10536,2025-08-12,South,Electronics,Laptop,Partner,4,817.2,0.1,2941.92,2222.78,719.14,3.5
+ORD-10537,2025-08-27,South,Stationery,Notebook Set,Partner,4,19.11,0.07,71.09,32.1,38.99,3.5
+ORD-10538,2025-09-28,East,Electronics,Laptop,Partner,5,756.66,0.09,3442.8,2572.64,870.16,4.1
+ORD-10539,2025-09-19,North,Furniture,Standing Desk,Retail Store,3,446.38,0.06,1258.79,883.83,374.96,3.4
+ORD-10540,2025-09-09,North,Stationery,Pen Pack,Partner,4,11.83,0.06,44.48,17.98,26.5,4.1
+ORD-10541,2025-09-09,South,Stationery,Notebook Set,Retail Store,4,17.04,0.06,64.07,28.63,35.44,3.9
+ORD-10542,2025-09-07,North,Furniture,Office Chair,Retail Store,1,202.9,0.04,194.78,125.8,68.98,4.4
+ORD-10543,2025-09-22,East,Furniture,Standing Desk,Online,2,460.22,0.11,819.19,607.49,211.7,4.2
+ORD-10544,2025-09-18,North,Appliances,Coffee Maker,Retail Store,3,131.21,0.05,373.95,228.31,145.64,4.3
+ORD-10545,2025-09-21,South,Furniture,Office Chair,Partner,6,201.86,0.07,1126.38,750.92,375.46,4
+ORD-10546,2025-09-28,West,Furniture,Office Chair,Online,3,222.1,0.11,593.01,413.11,179.9,3.9
+ORD-10547,2025-09-23,North,Stationery,Pen Pack,Partner,5,11.18,0.09,50.87,21.24,29.63,3.5
+ORD-10548,2025-09-27,South,Stationery,Notebook Set,Online,6,19.91,0.11,106.32,50.17,56.15,3.7
+ORD-10549,2025-09-04,East,Electronics,Laptop,Retail Store,5,870.35,0.08,4003.61,2959.19,1044.42,4.2
+ORD-10550,2025-09-28,West,Furniture,Office Chair,Partner,4,209.05,0.09,760.94,518.44,242.5,3.9
+ORD-10551,2025-09-24,West,Furniture,Standing Desk,Online,4,439.96,0.09,1601.45,1161.49,439.96,4.2
+ORD-10552,2025-09-23,South,Furniture,Standing Desk,Online,6,449.87,0.09,2456.29,1781.49,674.8,3.4
+ORD-10553,2025-09-19,West,Electronics,Laptop,Partner,4,781.96,0.08,2877.61,2126.93,750.68,3.3
+ORD-10554,2025-09-02,North,Stationery,Notebook Set,Online,1,17.29,0.11,15.39,7.26,8.13,4.3
+ORD-10555,2025-09-15,East,Electronics,Laptop,Partner,2,872.16,0.09,1587.33,1186.14,401.19,3.6
+ORD-10556,2025-09-24,West,Stationery,Pen Pack,Retail Store,3,12.1,0.04,34.85,13.79,21.06,3.4
+ORD-10557,2025-09-03,East,Electronics,Laptop,Online,4,759.03,0.09,2762.87,2064.56,698.31,4.7
+ORD-10558,2025-09-06,North,Stationery,Notebook Set,Partner,4,16.26,0.09,59.19,27.32,31.87,4.5
+ORD-10559,2025-09-07,East,Stationery,Pen Pack,Partner,3,10.87,0.09,29.68,12.39,17.29,4.4
+ORD-10560,2025-09-24,South,Appliances,Air Purifier,Online,3,272.38,0.09,743.6,514.8,228.8,4.2
+ORD-10561,2025-09-22,South,Stationery,Pen Pack,Retail Store,5,11.43,0.07,53.15,21.72,31.43,4.1
+ORD-10562,2025-09-15,North,Stationery,Pen Pack,Retail Store,1,10.83,0.06,10.18,4.12,6.06,4.5
+ORD-10563,2025-09-25,East,Appliances,Air Purifier,Online,5,280.45,0.11,1248,883.42,364.58,3.5
+ORD-10564,2025-09-22,East,Furniture,Standing Desk,Partner,1,472.8,0.08,434.98,312.05,122.93,4.4
+ORD-10565,2025-09-22,North,Stationery,Notebook Set,Partner,3,19.65,0.09,53.64,24.76,28.88,4.5
+ORD-10566,2025-09-09,North,Stationery,Pen Pack,Online,5,10.04,0.11,44.68,19.08,25.6,4.5
+ORD-10567,2025-09-04,North,Furniture,Office Chair,Partner,4,221.87,0.08,816.48,550.24,266.24,3.4
+ORD-10568,2025-09-20,North,Electronics,Laptop,Retail Store,5,792.01,0.06,3722.45,2692.83,1029.62,4.2
+ORD-10569,2025-09-22,South,Furniture,Standing Desk,Retail Store,5,387.86,0.06,1822.94,1279.94,543,4.3
+ORD-10570,2025-09-25,West,Appliances,Coffee Maker,Retail Store,4,131.11,0.05,498.22,304.18,194.04,4.3
+ORD-10571,2025-09-06,West,Electronics,Headphones,Partner,6,83.47,0.08,460.75,275.45,185.3,3.4
+ORD-10572,2025-09-23,East,Electronics,Headphones,Online,4,90.58,0.1,326.09,199.28,126.81,4.5
+ORD-10573,2025-09-03,South,Furniture,Standing Desk,Partner,1,430.14,0.08,395.73,283.89,111.84,4.6
+ORD-10574,2025-09-25,East,Furniture,Office Chair,Retail Store,2,227.13,0.05,431.55,281.64,149.91,3.8
+ORD-10575,2025-09-27,South,Stationery,Notebook Set,Retail Store,2,16.85,0.06,31.68,14.15,17.53,4.2
+ORD-10576,2025-09-16,East,Appliances,Coffee Maker,Retail Store,4,120.77,0.08,444.43,280.19,164.24,4
+ORD-10577,2025-09-19,East,Furniture,Office Chair,Online,2,192.58,0.12,338.94,238.8,100.14,3.5
+ORD-10578,2025-09-26,South,Furniture,Standing Desk,Partner,2,391.25,0.07,727.72,516.45,211.27,3.7
+ORD-10579,2025-09-28,North,Appliances,Coffee Maker,Partner,4,138.6,0.1,498.96,321.55,177.41,3.5
+ORD-10580,2025-09-10,West,Stationery,Notebook Set,Partner,1,16.36,0.08,15.05,6.87,8.18,4.6
+ORD-10581,2025-09-04,South,Electronics,Headphones,Online,5,86.67,0.09,394.35,238.34,156.01,4.7
+ORD-10582,2025-09-25,East,Furniture,Standing Desk,Online,5,465.43,0.1,2094.43,1535.92,558.51,3.8
+ORD-10583,2025-09-11,West,Electronics,Laptop,Retail Store,3,818.62,0.06,2308.51,1669.98,638.53,4.6
+ORD-10584,2025-09-25,South,Stationery,Notebook Set,Retail Store,6,17.48,0.07,97.54,44.05,53.49,4.6
+ORD-10585,2025-09-20,North,Electronics,Headphones,Online,3,94.31,0.12,248.98,155.61,93.37,4.6
+ORD-10586,2025-09-19,South,Appliances,Air Purifier,Retail Store,4,269.73,0.05,1024.97,679.72,345.25,4.5
+ORD-10587,2025-09-02,South,Electronics,Headphones,Partner,5,84.91,0.07,394.83,233.5,161.33,3.3
+ORD-10588,2025-09-26,South,Stationery,Notebook Set,Partner,3,19.47,0.07,54.32,24.53,29.79,4.4
+ORD-10589,2025-09-08,North,Furniture,Standing Desk,Partner,4,428.07,0.06,1609.54,1130.1,479.44,3.7
+ORD-10590,2025-09-12,North,Electronics,Headphones,Retail Store,3,99.64,0.06,280.98,164.41,116.57,3.8
+ORD-10591,2025-09-11,North,Appliances,Air Purifier,Retail Store,1,258.22,0.05,245.31,162.68,82.63,4.2
+ORD-10592,2025-09-12,North,Appliances,Coffee Maker,Partner,5,117.2,0.07,544.98,339.88,205.1,4.7
+ORD-10593,2025-09-10,West,Electronics,Headphones,Partner,3,92.21,0.09,251.73,152.15,99.58,3.7
+ORD-10594,2025-09-11,East,Furniture,Office Chair,Online,1,226.15,0.09,205.8,140.21,65.59,4.7
+ORD-10595,2025-09-14,West,Stationery,Notebook Set,Online,3,17.35,0.1,46.85,21.86,24.99,4
+ORD-10596,2025-09-12,East,Furniture,Office Chair,Partner,6,232.43,0.08,1283.01,864.64,418.37,4.1
+ORD-10597,2025-09-04,North,Appliances,Coffee Maker,Retail Store,1,134.25,0.06,126.19,77.86,48.33,3.5
+ORD-10598,2025-09-26,South,Furniture,Office Chair,Online,3,228.13,0.11,609.11,424.32,184.79,3.4
+ORD-10599,2025-09-03,North,Electronics,Headphones,Partner,6,99.31,0.08,548.19,327.72,220.47,4.3
+ORD-10600,2025-09-03,East,Furniture,Office Chair,Retail Store,2,219.75,0.07,408.73,272.49,136.24,4.5
+ORD-10601,2025-09-11,East,Stationery,Pen Pack,Online,3,12.31,0.09,33.61,14.03,19.58,4.3
+ORD-10602,2025-09-16,East,Stationery,Notebook Set,Online,5,17.07,0.08,78.52,35.85,42.67,3.9
+ORD-10603,2025-09-17,North,Appliances,Air Purifier,Partner,2,265.79,0.09,483.74,334.9,148.84,4.4
+ORD-10604,2025-09-25,West,Electronics,Headphones,Retail Store,4,99.67,0.06,374.76,219.27,155.49,4.1
+ORD-10605,2025-09-16,South,Stationery,Notebook Set,Partner,1,16.67,0.08,15.34,7,8.34,3.5
+ORD-10606,2025-09-01,West,Furniture,Standing Desk,Online,5,399.95,0.09,1819.77,1319.84,499.93,3.8
+ORD-10607,2025-09-27,West,Electronics,Headphones,Partner,1,93.43,0.07,86.89,51.39,35.5,3.8
+ORD-10608,2025-09-05,North,Furniture,Office Chair,Retail Store,2,229.82,0.05,436.66,284.98,151.68,4.7
+ORD-10609,2025-09-22,West,Stationery,Pen Pack,Online,5,11.46,0.08,52.72,21.77,30.95,3.3
+ORD-10610,2025-09-02,North,Electronics,Headphones,Online,3,98.22,0.09,268.14,162.06,106.08,3.8
+ORD-10611,2025-09-25,East,Furniture,Office Chair,Partner,5,197.8,0.09,899.99,613.18,286.81,4.7
+ORD-10612,2025-10-01,West,Furniture,Office Chair,Retail Store,5,212.17,0.05,1007.81,657.73,350.08,4.6
+ORD-10613,2025-10-20,East,Furniture,Standing Desk,Partner,1,404.43,0.08,372.08,266.92,105.16,4.1
+ORD-10614,2025-10-24,West,Electronics,Laptop,Retail Store,6,765.61,0.05,4363.98,3123.69,1240.29,4.4
+ORD-10615,2025-10-22,West,Electronics,Headphones,Retail Store,1,83.89,0.06,78.86,46.14,32.72,4.6
+ORD-10616,2025-10-17,East,Appliances,Air Purifier,Online,5,241.21,0.09,1097.51,759.81,337.7,4.6
+ORD-10617,2025-10-07,South,Stationery,Pen Pack,Partner,3,10.33,0.07,28.82,11.78,17.04,4.4
+ORD-10618,2025-10-23,South,Stationery,Notebook Set,Partner,3,19.63,0.08,54.18,24.73,29.45,4.6
+ORD-10619,2025-10-02,North,Appliances,Air Purifier,Online,3,281,0.11,750.27,531.09,219.18,4
+ORD-10620,2025-10-12,South,Furniture,Standing Desk,Online,1,401.38,0.08,369.27,264.91,104.36,4.1
+ORD-10621,2025-10-05,East,Electronics,Laptop,Partner,1,784.78,0.07,729.85,533.65,196.2,4.5
+ORD-10622,2025-10-27,South,Furniture,Office Chair,Partner,1,215.26,0.09,195.89,133.46,62.43,4.1
+ORD-10623,2025-10-21,North,Appliances,Air Purifier,Online,3,260.88,0.11,696.55,493.06,203.49,4.2
+ORD-10624,2025-10-25,East,Appliances,Air Purifier,Retail Store,5,250.44,0.04,1202.11,788.89,413.22,4.3
+ORD-10625,2025-10-17,South,Electronics,Laptop,Partner,3,781.08,0.08,2155.78,1593.4,562.38,3.5
+ORD-10626,2025-10-25,North,Furniture,Standing Desk,Online,3,446.66,0.08,1232.78,884.39,348.39,3.7
+ORD-10627,2025-10-11,South,Appliances,Air Purifier,Retail Store,4,237.55,0.08,874.18,598.63,275.55,4.7
+ORD-10628,2025-10-04,East,Electronics,Laptop,Partner,6,810.31,0.08,4472.91,3306.06,1166.85,3.7
+ORD-10629,2025-10-28,South,Furniture,Standing Desk,Partner,1,422.37,0.07,392.8,278.76,114.04,4.5
+ORD-10630,2025-10-23,East,Stationery,Notebook Set,Online,5,18.56,0.08,85.38,38.98,46.4,4.5
+ORD-10631,2025-10-23,North,Appliances,Coffee Maker,Retail Store,1,127.68,0.08,117.47,74.05,43.42,4
+ORD-10632,2025-10-05,East,Electronics,Laptop,Retail Store,4,817.4,0.06,3073.42,2223.33,850.09,3.9
+ORD-10633,2025-10-03,South,Stationery,Pen Pack,Partner,6,10.8,0.09,58.97,24.62,34.35,4
+ORD-10634,2025-10-28,South,Appliances,Air Purifier,Retail Store,2,257,0.07,478.02,323.82,154.2,3.5
+ORD-10635,2025-10-06,North,Furniture,Office Chair,Retail Store,5,225.27,0.04,1081.3,698.34,382.96,4.6
+ORD-10636,2025-10-24,North,Furniture,Office Chair,Partner,2,202.47,0.1,364.45,251.06,113.39,3.5
+ORD-10637,2025-10-28,North,Furniture,Standing Desk,Online,6,433.59,0.08,2393.42,1717.02,676.4,3.7
+ORD-10638,2025-10-11,East,Electronics,Laptop,Online,3,765.71,0.08,2113.36,1562.05,551.31,4.7
+ORD-10639,2025-10-02,West,Furniture,Office Chair,Online,3,211.94,0.11,565.88,394.21,171.67,3.9
+ORD-10640,2025-10-21,South,Furniture,Office Chair,Online,2,224.05,0.09,407.77,277.82,129.95,4.4
+ORD-10641,2025-10-03,West,Electronics,Headphones,Retail Store,4,96.34,0.07,358.38,211.95,146.43,3.4
+ORD-10642,2025-10-22,North,Electronics,Headphones,Partner,5,87.26,0.09,397.03,239.97,157.06,4
+ORD-10643,2025-10-07,East,Stationery,Pen Pack,Online,5,10.66,0.08,49.04,20.25,28.79,4.6
+ORD-10644,2025-10-11,West,Furniture,Standing Desk,Retail Store,4,456.57,0.05,1734.97,1205.34,529.63,4
+ORD-10645,2025-10-06,North,Stationery,Pen Pack,Retail Store,4,11.65,0.07,43.34,17.71,25.63,3.5
+ORD-10646,2025-10-23,North,Appliances,Air Purifier,Partner,4,237.23,0.08,873.01,597.82,275.19,4.2
+ORD-10647,2025-10-24,South,Furniture,Standing Desk,Online,5,457.88,0.11,2037.57,1511,526.57,4.3
+ORD-10648,2025-10-02,North,Electronics,Headphones,Partner,3,88.34,0.1,238.52,145.76,92.76,4.3
+ORD-10649,2025-10-09,North,Furniture,Standing Desk,Retail Store,5,421.39,0.04,2022.67,1390.59,632.08,4.1
+ORD-10650,2025-10-28,East,Stationery,Pen Pack,Online,5,10.81,0.12,47.56,20.54,27.02,4.2
+ORD-10651,2025-10-12,East,Furniture,Office Chair,Retail Store,5,198.92,0.07,924.98,616.65,308.33,4.5
+ORD-10652,2025-10-25,East,Electronics,Laptop,Retail Store,3,841.95,0.05,2399.56,1717.58,681.98,4.6
+ORD-10653,2025-10-25,East,Furniture,Office Chair,Retail Store,2,198.07,0.08,364.45,245.61,118.84,4.3
+ORD-10654,2025-10-17,North,Appliances,Air Purifier,Online,4,237.86,0.11,846.78,599.41,247.37,4.4
+ORD-10655,2025-10-21,West,Electronics,Headphones,Online,3,82.94,0.1,223.94,136.85,87.09,4.6
+ORD-10656,2025-10-24,West,Furniture,Office Chair,Retail Store,6,197.99,0.04,1140.42,736.52,403.9,4.2
+ORD-10657,2025-10-18,West,Appliances,Coffee Maker,Partner,4,132.12,0.08,486.2,306.52,179.68,4.4
+ORD-10658,2025-10-21,East,Electronics,Headphones,Retail Store,2,91.08,0.07,169.41,100.19,69.22,3.6
+ORD-10659,2025-10-28,South,Electronics,Headphones,Partner,3,89.15,0.09,243.38,147.1,96.28,4.7
+ORD-10660,2025-10-22,South,Appliances,Coffee Maker,Online,2,129.95,0.09,236.51,150.74,85.77,3.7
+ORD-10661,2025-10-17,West,Stationery,Pen Pack,Retail Store,3,10.62,0.04,30.59,12.11,18.48,3.9
+ORD-10662,2025-10-11,East,Appliances,Air Purifier,Retail Store,6,237.98,0.06,1342.21,899.56,442.65,3.9
+ORD-10663,2025-10-18,North,Electronics,Laptop,Online,5,738.95,0.08,3399.17,2512.43,886.74,4.5
+ORD-10664,2025-10-06,North,Stationery,Pen Pack,Online,1,11.71,0.1,10.54,4.45,6.09,4.3
+ORD-10665,2025-10-05,West,Stationery,Notebook Set,Retail Store,4,17.1,0.06,64.3,28.73,35.57,4.5
+ORD-10666,2025-10-09,West,Stationery,Pen Pack,Retail Store,1,10.16,0.04,9.75,3.86,5.89,4.5
+ORD-10667,2025-10-13,East,Appliances,Air Purifier,Online,6,272.95,0.09,1490.31,1031.75,458.56,4.3
+ORD-10668,2025-10-18,North,Appliances,Air Purifier,Partner,3,265.15,0.08,731.81,501.13,230.68,4.2
+ORD-10669,2025-10-03,East,Furniture,Office Chair,Partner,4,219.68,0.1,790.85,544.81,246.04,4.7
+ORD-10670,2025-10-04,South,Electronics,Laptop,Partner,3,869.75,0.07,2426.6,1774.29,652.31,3.4
+ORD-10671,2025-10-17,North,Stationery,Pen Pack,Retail Store,4,11.28,0.06,42.41,17.15,25.26,4.1
+ORD-10672,2025-10-09,West,Stationery,Notebook Set,Partner,4,17.85,0.07,66.4,29.99,36.41,4.5
+ORD-10673,2025-10-12,East,Stationery,Notebook Set,Partner,5,18.83,0.07,87.56,39.54,48.02,3.6
+ORD-10674,2025-10-08,South,Furniture,Standing Desk,Online,4,435.84,0.1,1569.02,1150.62,418.4,4.1
+ORD-10675,2025-10-14,North,Furniture,Office Chair,Online,4,218.44,0.1,786.38,541.73,244.65,4.4
+ORD-10676,2025-10-10,South,Stationery,Notebook Set,Online,2,16.79,0.12,29.55,14.1,15.45,3.6
+ORD-10677,2025-10-14,North,Electronics,Laptop,Partner,1,732.08,0.09,666.19,497.81,168.38,4
+ORD-10678,2025-10-02,West,Stationery,Notebook Set,Partner,2,19.99,0.07,37.18,16.79,20.39,3.7
+ORD-10679,2025-10-28,East,Appliances,Coffee Maker,Retail Store,6,126.82,0.05,722.87,441.33,281.54,3.9
+ORD-10680,2025-10-19,East,Electronics,Headphones,Partner,5,101.43,0.08,466.58,278.93,187.65,4.6
+ORD-10681,2025-10-28,North,Stationery,Pen Pack,Online,3,9.98,0.12,26.35,11.38,14.97,3.8
+ORD-10682,2025-10-14,South,Appliances,Coffee Maker,Online,6,137.82,0.1,744.23,479.61,264.62,4.3
+ORD-10683,2025-10-04,South,Furniture,Office Chair,Partner,2,223.83,0.09,407.37,277.55,129.82,4.7
+ORD-10684,2025-10-02,East,Furniture,Office Chair,Online,4,202.81,0.1,730.12,502.97,227.15,4.4
+ORD-10685,2025-10-28,West,Electronics,Laptop,Partner,5,867.82,0.1,3905.19,2950.59,954.6,3.4
+ORD-10686,2025-10-16,West,Electronics,Laptop,Partner,2,774.36,0.09,1409.34,1053.13,356.21,4.6
+ORD-10687,2025-10-11,North,Appliances,Coffee Maker,Retail Store,2,133.4,0.08,245.46,154.74,90.72,4.4
+ORD-10688,2025-10-03,North,Electronics,Headphones,Online,5,87.7,0.09,399.04,241.18,157.86,3.5
+ORD-10689,2025-10-23,South,Electronics,Laptop,Partner,3,803.69,0.07,2242.3,1639.53,602.77,3.8
+ORD-10690,2025-11-10,West,Stationery,Notebook Set,Partner,2,19.32,0.13,33.62,16.23,17.39,3.8
+ORD-10691,2025-11-17,East,Stationery,Pen Pack,Retail Store,4,11.28,0.11,40.16,17.15,23.01,4.6
+ORD-10692,2025-11-02,East,Appliances,Coffee Maker,Online,2,115.09,0.12,202.56,133.5,69.06,4.1
+ORD-10693,2025-11-14,East,Appliances,Air Purifier,Online,8,253.63,0.14,1744.97,1278.3,466.67,4
+ORD-10694,2025-11-02,West,Electronics,Laptop,Retail Store,7,751.57,0.08,4840.11,3577.47,1262.64,4.7
+ORD-10695,2025-11-22,North,Electronics,Headphones,Retail Store,7,96.09,0.09,612.09,369.95,242.14,4.3
+ORD-10696,2025-11-08,West,Appliances,Coffee Maker,Retail Store,7,139.87,0.1,881.18,567.87,313.31,3.7
+ORD-10697,2025-11-14,South,Appliances,Coffee Maker,Online,5,114.27,0.15,485.65,331.38,154.27,3.3
+ORD-10698,2025-11-14,West,Stationery,Notebook Set,Online,2,18.3,0.13,31.84,15.37,16.47,4.4
+ORD-10699,2025-11-05,East,Appliances,Air Purifier,Online,8,289.53,0.12,2038.29,1459.23,579.06,4
+ORD-10700,2025-11-10,East,Electronics,Laptop,Online,5,738.03,0.16,3099.73,2509.3,590.43,3.5
+ORD-10701,2025-11-20,West,Electronics,Laptop,Partner,6,863.33,0.11,4610.18,3522.39,1087.79,3.3
+ORD-10702,2025-11-17,West,Electronics,Headphones,Retail Store,8,96.48,0.11,686.94,424.51,262.43,4.6
+ORD-10703,2025-11-15,South,Stationery,Pen Pack,Partner,5,9.93,0.11,44.19,18.87,25.32,4.4
+ORD-10704,2025-11-27,West,Electronics,Headphones,Online,5,86.72,0.14,372.9,238.48,134.42,3.3
+ORD-10705,2025-11-20,East,Electronics,Laptop,Online,2,703.37,0.14,1209.8,956.58,253.22,4.6
+ORD-10706,2025-11-06,North,Appliances,Coffee Maker,Retail Store,4,139.27,0.11,495.8,323.11,172.69,3.9
+ORD-10707,2025-11-24,West,Appliances,Air Purifier,Partner,8,282.85,0.12,1991.26,1425.56,565.7,3.9
+ORD-10708,2025-11-12,South,Stationery,Notebook Set,Online,3,18.1,0.13,47.24,22.81,24.43,4.4
+ORD-10709,2025-11-12,East,Stationery,Notebook Set,Partner,4,19.7,0.1,70.92,33.1,37.82,4.5
+ORD-10710,2025-11-22,East,Stationery,Pen Pack,Partner,4,11.7,0.13,40.72,17.78,22.94,4
+ORD-10711,2025-11-13,South,Stationery,Notebook Set,Retail Store,1,16.81,0.12,14.79,7.06,7.73,4.5
+ORD-10712,2025-11-26,East,Furniture,Office Chair,Partner,6,220.48,0.13,1150.91,820.19,330.72,3.6
+ORD-10713,2025-11-28,West,Electronics,Headphones,Retail Store,7,98.21,0.11,611.85,378.11,233.74,3.4
+ORD-10714,2025-11-19,South,Electronics,Laptop,Retail Store,2,769.35,0.08,1415.6,1046.32,369.28,3.8
+ORD-10715,2025-11-24,North,Electronics,Laptop,Retail Store,8,727.06,0.08,5351.16,3955.21,1395.95,3.5
+ORD-10716,2025-11-11,West,Electronics,Headphones,Online,3,92.67,0.13,241.87,152.91,88.96,3.8
+ORD-10717,2025-11-24,East,Electronics,Laptop,Partner,3,772.85,0.11,2063.51,1576.61,486.9,4.3
+ORD-10718,2025-11-24,South,Appliances,Coffee Maker,Online,2,123.33,0.13,214.59,143.06,71.53,3.3
+ORD-10719,2025-11-24,East,Furniture,Standing Desk,Partner,4,447.47,0.11,1592.99,1181.32,411.67,4.2
+ORD-10720,2025-11-14,North,Stationery,Notebook Set,Partner,8,18.84,0.14,129.62,63.3,66.32,3.4
+ORD-10721,2025-11-21,East,Furniture,Office Chair,Retail Store,6,197.72,0.11,1055.82,735.52,320.3,3.5
+ORD-10722,2025-11-06,West,Furniture,Standing Desk,Partner,5,415.99,0.12,1830.36,1372.77,457.59,4.3
+ORD-10723,2025-11-15,West,Furniture,Standing Desk,Online,5,389.22,0.13,1693.11,1284.43,408.68,3.9
+ORD-10724,2025-11-20,South,Stationery,Pen Pack,Retail Store,7,10.06,0.1,63.38,26.76,36.62,3.7
+ORD-10725,2025-11-15,West,Furniture,Office Chair,Partner,7,189.79,0.11,1182.39,823.69,358.7,3.8
+ORD-10726,2025-11-09,East,Furniture,Office Chair,Online,2,224.39,0.12,394.93,278.24,116.69,4.2
+ORD-10727,2025-11-07,South,Stationery,Pen Pack,Online,2,10.54,0.13,18.34,8.01,10.33,3.3
+ORD-10728,2025-11-07,North,Furniture,Office Chair,Retail Store,2,217.11,0.11,386.46,269.22,117.24,3.3
+ORD-10729,2025-11-15,East,Stationery,Pen Pack,Partner,7,10.88,0.13,66.26,28.94,37.32,3.3
+ORD-10730,2025-11-14,South,Furniture,Office Chair,Retail Store,5,211.45,0.08,972.67,655.5,317.17,3.5
+ORD-10731,2025-11-17,North,Electronics,Headphones,Partner,2,101.28,0.11,180.28,111.41,68.87,3.9
+ORD-10732,2025-11-02,South,Electronics,Headphones,Online,5,88.82,0.16,373.04,244.25,128.79,3.5
+ORD-10733,2025-11-05,West,Electronics,Headphones,Online,3,91.61,0.14,236.35,151.16,85.19,3.3
+ORD-10734,2025-11-26,East,Electronics,Headphones,Retail Store,5,88.02,0.09,400.49,242.06,158.43,3.6
+ORD-10735,2025-11-12,South,Electronics,Headphones,Retail Store,7,84.58,0.11,526.93,325.63,201.3,3.5
+ORD-10736,2025-11-28,West,Furniture,Standing Desk,Partner,2,407.18,0.12,716.64,537.48,179.16,4.4
+ORD-10737,2025-11-06,West,Electronics,Laptop,Online,7,834.61,0.16,4907.51,3972.74,934.77,4.6
+ORD-10738,2025-11-11,East,Electronics,Headphones,Online,7,102.06,0.14,614.4,392.93,221.47,3.6
+ORD-10739,2025-11-25,South,Appliances,Air Purifier,Retail Store,5,262.13,0.1,1179.59,825.71,353.88,3.8
+ORD-10740,2025-11-13,West,Electronics,Laptop,Retail Store,7,790.42,0.11,4924.32,3762.4,1161.92,4.5
+ORD-10741,2025-11-19,South,Furniture,Office Chair,Partner,3,219.37,0.1,592.3,408.03,184.27,4.7
+ORD-10742,2025-11-18,East,Furniture,Standing Desk,Retail Store,7,435.7,0.11,2714.41,2012.93,701.48,4
+ORD-10743,2025-11-12,West,Electronics,Laptop,Partner,5,771.56,0.12,3394.86,2623.3,771.56,4
+ORD-10744,2025-11-22,West,Appliances,Coffee Maker,Partner,4,124.6,0.14,428.62,289.07,139.55,3.7
+ORD-10745,2025-11-24,West,Furniture,Office Chair,Online,4,230.95,0.12,812.94,572.76,240.18,4.1
+ORD-10746,2025-11-01,South,Appliances,Coffee Maker,Partner,5,139.27,0.11,619.75,403.88,215.87,3.6
+ORD-10747,2025-11-18,East,Furniture,Office Chair,Partner,7,220.7,0.12,1359.51,957.84,401.67,4.4
+ORD-10748,2025-11-28,West,Appliances,Air Purifier,Partner,6,251.32,0.14,1296.81,949.99,346.82,3.7
+ORD-10749,2025-11-09,West,Appliances,Coffee Maker,Retail Store,5,137.85,0.12,606.54,399.76,206.78,4.5
+ORD-10750,2025-11-21,East,Stationery,Pen Pack,Partner,2,10.95,0.14,18.83,8.32,10.51,4.3
+ORD-10751,2025-11-14,North,Stationery,Pen Pack,Partner,4,11.77,0.11,41.9,17.89,24.01,4.3
+ORD-10752,2025-11-26,West,Stationery,Pen Pack,Retail Store,4,11.1,0.08,40.85,16.87,23.98,4.5
+ORD-10753,2025-11-24,East,Stationery,Pen Pack,Partner,5,11.53,0.12,50.73,21.91,28.82,4
+ORD-10754,2025-11-22,North,Furniture,Office Chair,Partner,2,192.36,0.1,346.25,238.53,107.72,3.7
+ORD-10755,2025-11-06,East,Furniture,Office Chair,Retail Store,4,220.1,0.08,809.97,545.85,264.12,4
+ORD-10756,2025-11-05,North,Stationery,Pen Pack,Retail Store,4,11.09,0.11,39.48,16.86,22.62,4.6
+ORD-10757,2025-11-16,West,Appliances,Coffee Maker,Retail Store,5,132.26,0.1,595.17,383.55,211.62,4.1
+ORD-10758,2025-11-22,North,Furniture,Standing Desk,Partner,8,401.72,0.13,2795.97,2121.08,674.89,3.6
+ORD-10759,2025-11-06,South,Stationery,Notebook Set,Retail Store,6,20.1,0.1,108.54,50.65,57.89,4.3
+ORD-10760,2025-11-01,East,Stationery,Pen Pack,Retail Store,3,11.93,0.12,31.5,13.6,17.9,4.4
+ORD-10761,2025-11-22,North,Furniture,Standing Desk,Online,4,404.61,0.15,1375.67,1068.17,307.5,4.2
+ORD-10762,2025-11-07,South,Appliances,Air Purifier,Online,2,235.11,0.14,404.39,296.24,108.15,4.5
+ORD-10763,2025-12-11,East,Electronics,Headphones,Online,3,94.74,0.12,250.11,156.32,93.79,4
+ORD-10764,2025-12-13,South,Furniture,Office Chair,Retail Store,2,205.33,0.05,390.13,254.61,135.52,3.4
+ORD-10765,2025-12-04,West,Furniture,Office Chair,Online,4,194.86,0.11,693.7,483.25,210.45,4.5
+ORD-10766,2025-12-27,East,Stationery,Notebook Set,Retail Store,7,18.69,0.04,125.6,54.95,70.65,4.2
+ORD-10767,2025-12-09,North,Appliances,Coffee Maker,Online,2,132.24,0.08,243.32,153.4,89.92,3.8
+ORD-10768,2025-12-19,East,Furniture,Standing Desk,Partner,2,465.45,0.07,865.74,614.39,251.35,3.8
+ORD-10769,2025-12-14,South,Furniture,Office Chair,Retail Store,4,211.18,0.07,785.59,523.73,261.86,3.8
+ORD-10770,2025-12-18,South,Appliances,Air Purifier,Online,4,281.52,0.11,1002.21,709.43,292.78,3.5
+ORD-10771,2025-12-04,North,Furniture,Standing Desk,Partner,3,416.67,0.1,1125.01,825.01,300,4.3
+ORD-10772,2025-12-13,North,Electronics,Headphones,Online,2,89.32,0.11,158.99,98.25,60.74,3.3
+ORD-10773,2025-12-13,North,Furniture,Office Chair,Partner,6,233.48,0.06,1316.83,868.55,448.28,4.7
+ORD-10774,2025-12-12,East,Electronics,Laptop,Partner,5,851.15,0.09,3872.73,2893.91,978.82,4.5
+ORD-10775,2025-12-27,West,Electronics,Headphones,Partner,8,84.4,0.08,621.18,371.36,249.82,4.5
+ORD-10776,2025-12-06,East,Appliances,Air Purifier,Retail Store,5,289.78,0.06,1361.97,912.81,449.16,3.6
+ORD-10777,2025-12-16,East,Furniture,Standing Desk,Partner,5,413.89,0.07,1924.59,1365.84,558.75,3.7
+ORD-10778,2025-12-17,North,Appliances,Coffee Maker,Online,4,116.48,0.11,414.67,270.23,144.44,3.5
+ORD-10779,2025-12-06,East,Furniture,Office Chair,Partner,7,199.69,0.1,1258.05,866.65,391.4,4.5
+ORD-10780,2025-12-11,West,Electronics,Headphones,Retail Store,3,101.95,0.06,287.5,168.22,119.28,3.5
+ORD-10781,2025-12-23,East,Furniture,Office Chair,Online,3,219.91,0.12,580.56,409.03,171.53,3.6
+ORD-10782,2025-12-07,East,Appliances,Coffee Maker,Partner,3,114.52,0.07,319.51,199.26,120.25,4.3
+ORD-10783,2025-12-25,South,Furniture,Office Chair,Online,8,212.22,0.1,1527.98,1052.61,475.37,3.8
+ORD-10784,2025-12-10,South,Stationery,Pen Pack,Online,7,10.89,0.12,67.08,28.97,38.11,3.7
+ORD-10785,2025-12-17,South,Electronics,Headphones,Partner,5,100.16,0.06,470.75,275.44,195.31,4.4
+ORD-10786,2025-12-13,North,Electronics,Headphones,Online,7,84.57,0.1,532.79,325.59,207.2,3.5
+ORD-10787,2025-12-11,West,Appliances,Air Purifier,Retail Store,7,242.08,0.07,1575.94,1067.57,508.37,4.6
+ORD-10788,2025-12-13,North,Electronics,Headphones,Retail Store,7,94.02,0.07,612.07,361.98,250.09,3.7
+ORD-10789,2025-12-23,East,Appliances,Air Purifier,Retail Store,5,240.05,0.07,1116.23,756.16,360.07,3.8
+ORD-10790,2025-12-10,North,Appliances,Air Purifier,Retail Store,5,270.23,0.07,1256.57,851.22,405.35,4.3
+ORD-10791,2025-12-15,North,Stationery,Pen Pack,Partner,2,12.1,0.07,22.51,9.2,13.31,4
+ORD-10792,2025-12-27,East,Stationery,Pen Pack,Partner,5,11.32,0.06,53.2,21.51,31.69,4.6
+ORD-10793,2025-12-23,North,Electronics,Laptop,Online,8,733.79,0.11,5224.58,3991.82,1232.76,3.5
+ORD-10794,2025-12-25,South,Stationery,Notebook Set,Partner,6,16.89,0.08,93.23,42.56,50.67,3.8
+ORD-10795,2025-12-19,East,Stationery,Notebook Set,Online,2,16.56,0.09,30.14,13.91,16.23,4.6
+ORD-10796,2025-12-04,East,Electronics,Headphones,Online,3,97.49,0.09,266.15,160.86,105.29,3.7
+ORD-10797,2025-12-11,West,Appliances,Coffee Maker,Retail Store,4,123.04,0.05,467.55,285.45,182.1,3.7
+ORD-10798,2025-12-01,South,Furniture,Standing Desk,Online,4,405.02,0.1,1458.07,1069.25,388.82,4.2
+ORD-10799,2025-12-15,West,Furniture,Standing Desk,Online,5,432.05,0.09,1965.83,1425.77,540.06,4.4
+ORD-10800,2025-12-03,East,Electronics,Laptop,Retail Store,7,737.97,0.06,4855.84,3512.74,1343.1,4.4
+ORD-10801,2025-12-20,West,Electronics,Headphones,Retail Store,4,92.97,0.06,349.57,204.53,145.04,3.4
+ORD-10802,2025-12-21,West,Appliances,Air Purifier,Partner,7,243.98,0.1,1537.07,1075.95,461.12,3.5
+ORD-10803,2025-12-11,East,Stationery,Pen Pack,Online,3,10.81,0.11,28.86,12.32,16.54,3.7
+ORD-10804,2025-12-02,West,Stationery,Pen Pack,Online,7,10.6,0.09,67.52,28.2,39.32,4.2
+ORD-10805,2025-12-16,West,Furniture,Office Chair,Online,4,228.82,0.1,823.75,567.47,256.28,3.4
+ORD-10806,2025-12-23,West,Appliances,Air Purifier,Online,8,270.4,0.08,1990.14,1362.82,627.32,4.3
+ORD-10807,2025-12-24,South,Furniture,Standing Desk,Partner,5,445.85,0.08,2050.91,1471.31,579.6,3.8
+ORD-10808,2025-12-03,North,Furniture,Standing Desk,Online,6,409.12,0.08,2258.34,1620.12,638.22,4.3
+ORD-10809,2025-12-01,West,Stationery,Pen Pack,Retail Store,7,10.61,0.07,69.07,28.22,40.85,3.7
+ORD-10810,2025-12-04,West,Electronics,Laptop,Online,6,719.54,0.09,3928.69,2935.72,992.97,3.8
+ORD-10811,2025-12-02,West,Electronics,Headphones,Online,6,93.94,0.08,518.55,310,208.55,4.2
+ORD-10812,2025-12-07,North,Electronics,Laptop,Partner,6,757.81,0.08,4183.11,3091.86,1091.25,4.4
+ORD-10813,2025-12-21,South,Appliances,Coffee Maker,Partner,7,116.68,0.09,743.25,473.72,269.53,3.8
+ORD-10814,2025-12-13,North,Stationery,Notebook Set,Online,6,16.65,0.1,89.91,41.96,47.95,3.6
+ORD-10815,2025-12-17,East,Furniture,Standing Desk,Partner,3,388.99,0.07,1085.28,770.2,315.08,4
+ORD-10816,2025-12-15,East,Furniture,Standing Desk,Retail Store,2,468.63,0.05,890.4,618.59,271.81,4.7
+ORD-10817,2025-12-20,South,Electronics,Headphones,Retail Store,6,88.84,0.07,495.73,293.17,202.56,4.4
+ORD-10818,2025-12-15,North,Furniture,Standing Desk,Online,6,408.28,0.1,2204.71,1616.79,587.92,4.5
+ORD-10819,2025-12-14,South,Electronics,Laptop,Partner,2,771.78,0.09,1404.64,1049.62,355.02,4.6

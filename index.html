@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Retail Sales Analytics</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">Data Analytics Project</p>
+      <h1>Retail Sales Performance Dashboard</h1>
+    </div>
+    <div class="filters" aria-label="Dashboard filters">
+      <label>
+        Region
+        <select id="regionFilter"></select>
+      </label>
+      <label>
+        Category
+        <select id="categoryFilter"></select>
+      </label>
+      <label>
+        Channel
+        <select id="channelFilter"></select>
+      </label>
+    </div>
+  </header>
+
+  <main>
+    <section class="kpi-grid" aria-label="Key performance indicators">
+      <article class="kpi">
+        <span>Revenue</span>
+        <strong id="revenueKpi">$0</strong>
+      </article>
+      <article class="kpi">
+        <span>Profit</span>
+        <strong id="profitKpi">$0</strong>
+      </article>
+      <article class="kpi">
+        <span>Margin</span>
+        <strong id="marginKpi">0%</strong>
+      </article>
+      <article class="kpi">
+        <span>Orders</span>
+        <strong id="ordersKpi">0</strong>
+      </article>
+    </section>
+
+    <section class="dashboard-grid">
+      <article class="panel wide">
+        <div class="panel-heading">
+          <h2>Monthly Revenue</h2>
+          <span id="bestMonth"></span>
+        </div>
+        <div id="monthlyChart" class="chart" role="img" aria-label="Monthly revenue bar chart"></div>
+      </article>
+      <article class="panel">
+        <div class="panel-heading">
+          <h2>Region Mix</h2>
+          <span id="topRegion"></span>
+        </div>
+        <div id="regionChart" class="chart" role="img" aria-label="Revenue by region bar chart"></div>
+      </article>
+      <article class="panel">
+        <div class="panel-heading">
+          <h2>Category Profit</h2>
+          <span id="topCategory"></span>
+        </div>
+        <div id="categoryChart" class="chart" role="img" aria-label="Profit by category bar chart"></div>
+      </article>
+    </section>
+
+    <section class="table-panel">
+      <div class="panel-heading">
+        <h2>Category Summary</h2>
+        <span id="rowCount"></span>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Category</th>
+              <th>Orders</th>
+              <th>Units</th>
+              <th>Revenue</th>
+              <th>Profit</th>
+              <th>Margin</th>
+            </tr>
+          </thead>
+          <tbody id="summaryTable"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <script src="data/sales_data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

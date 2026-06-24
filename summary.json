@@ -1,0 +1,204 @@
+{
+  "generated_at": "2026-06-24T14:36:10.060Z",
+  "totals": {
+    "orders": 819,
+    "units": 3085,
+    "revenue": 699221.4099999997,
+    "profit": 202384.23000000019,
+    "margin": 0.2894422669351619,
+    "averageOrderValue": 853.750195360195,
+    "satisfaction": 4.031501831501835
+  },
+  "by_region": [
+    {
+      "name": "West",
+      "orders": 200,
+      "units": 802,
+      "revenue": 198701.92999999993,
+      "profit": 56666.36999999997,
+      "margin": 0.28518278609573644
+    },
+    {
+      "name": "East",
+      "orders": 211,
+      "units": 796,
+      "revenue": 190884.40999999997,
+      "profit": 54626.330000000016,
+      "margin": 0.2861749160133089
+    },
+    {
+      "name": "North",
+      "orders": 201,
+      "units": 750,
+      "revenue": 165011.46999999997,
+      "profit": 47971.66999999998,
+      "margin": 0.29071718469025204
+    },
+    {
+      "name": "South",
+      "orders": 207,
+      "units": 737,
+      "revenue": 144623.60000000006,
+      "profit": 43119.859999999964,
+      "margin": 0.2981523070923414
+    }
+  ],
+  "by_category": [
+    {
+      "name": "Electronics",
+      "orders": 217,
+      "units": 876,
+      "revenue": 334415.74000000005,
+      "profit": 89714.09999999996,
+      "margin": 0.2682711645091823
+    },
+    {
+      "name": "Furniture",
+      "orders": 208,
+      "units": 764,
+      "revenue": 221284.40000000008,
+      "profit": 64218.229999999996,
+      "margin": 0.29020676559215186
+    },
+    {
+      "name": "Appliances",
+      "orders": 196,
+      "units": 730,
+      "revenue": 134095.34999999998,
+      "profit": 43219.85,
+      "margin": 0.32230685105784806
+    },
+    {
+      "name": "Stationery",
+      "orders": 198,
+      "units": 715,
+      "revenue": 9425.92,
+      "profit": 5232.049999999997,
+      "margin": 0.5550704864883212
+    }
+  ],
+  "by_channel": [
+    {
+      "name": "Partner",
+      "orders": 294,
+      "units": 1089,
+      "revenue": 252232.31000000008,
+      "profit": 72354.29999999997,
+      "margin": 0.2868557957543185
+    },
+    {
+      "name": "Retail Store",
+      "orders": 256,
+      "units": 1007,
+      "revenue": 231186.83000000016,
+      "profit": 70909.32999999997,
+      "margin": 0.30671872614888973
+    },
+    {
+      "name": "Online",
+      "orders": 269,
+      "units": 989,
+      "revenue": 215802.26999999993,
+      "profit": 59120.6,
+      "margin": 0.27395726652921687
+    }
+  ],
+  "by_month": [
+    {
+      "name": "Jan",
+      "orders": 61,
+      "units": 174,
+      "revenue": 34106.98999999999,
+      "profit": 10455.329999999998,
+      "margin": 0.3065450806418274
+    },
+    {
+      "name": "May",
+      "orders": 60,
+      "units": 216,
+      "revenue": 40408.53999999999,
+      "profit": 12417.869999999999,
+      "margin": 0.30730805913799414
+    },
+    {
+      "name": "Feb",
+      "orders": 74,
+      "units": 231,
+      "revenue": 45204.47000000002,
+      "profit": 13885.709999999995,
+      "margin": 0.3071755956877713
+    },
+    {
+      "name": "Mar",
+      "orders": 65,
+      "units": 223,
+      "revenue": 51181.35,
+      "profit": 13504.180000000002,
+      "margin": 0.2638496249121995
+    },
+    {
+      "name": "Sep",
+      "orders": 74,
+      "units": 259,
+      "revenue": 54711.56000000003,
+      "profit": 16402.790000000008,
+      "margin": 0.2998048310082915
+    },
+    {
+      "name": "Apr",
+      "orders": 78,
+      "units": 279,
+      "revenue": 55982.71,
+      "profit": 16804.14,
+      "margin": 0.3001666050107256
+    },
+    {
+      "name": "Jul",
+      "orders": 64,
+      "units": 286,
+      "revenue": 60477.82000000001,
+      "profit": 15833.019999999999,
+      "margin": 0.2617987883822531
+    },
+    {
+      "name": "Jun",
+      "orders": 59,
+      "units": 230,
+      "revenue": 63340.779999999984,
+      "profit": 18651.08,
+      "margin": 0.2944561150020572
+    },
+    {
+      "name": "Dec",
+      "orders": 57,
+      "units": 280,
+      "revenue": 63914,
+      "profit": 18889.620000000003,
+      "margin": 0.29554745439183905
+    },
+    {
+      "name": "Oct",
+      "orders": 78,
+      "units": 277,
+      "revenue": 70532.45999999999,
+      "profit": 20880.170000000006,
+      "margin": 0.2960363214327135
+    },
+    {
+      "name": "Nov",
+      "orders": 73,
+      "units": 347,
+      "revenue": 76575.29999999996,
+      "profit": 20526.339999999993,
+      "margin": 0.26805432038790583
+    },
+    {
+      "name": "Aug",
+      "orders": 76,
+      "units": 283,
+      "revenue": 82785.42999999998,
+      "profit": 24133.979999999996,
+      "margin": 0.29152448685716803
+    }
+  ]
+}

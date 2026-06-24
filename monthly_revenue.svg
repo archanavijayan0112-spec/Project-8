@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="480" viewBox="0 0 900 480">
+  <rect width="100%" height="100%" fill="#f8faf9"/>
+  <text x="36" y="36" font-size="24" font-family="Arial" font-weight="700" fill="#17202a">Monthly Revenue Trend</text>
+  <line x1="90" y1="408" x2="866" y2="408" stroke="#cfd8dc"/>
+  <line x1="90" y1="58" x2="90" y2="408" stroke="#cfd8dc"/>
+  <polyline fill="none" stroke="#0f766e" stroke-width="4" points="90,263.80256694928084 160.54545454545456,237.16089220047536 231.0909090909091,216.88467330543537 301.6363636363636,191.61563743765052 372.1818181818182,176.69062587462534 442.7272727272727,171.3164616044151 513.2727272727273,152.31204862981315 583.8181818181818,140.20803467470063 654.3636363636364,137.78457682710587 724.909090909091,109.80307090269383 795.4545454545454,84.25516953889121 866,58" />
+  
+      <circle cx="90" cy="263.80256694928084" r="5" fill="#0f766e"/>
+      <text x="90" y="442" text-anchor="middle" font-size="13" fill="#263238">Jan</text>
+      <circle cx="160.54545454545456" cy="237.16089220047536" r="5" fill="#0f766e"/>
+      <text x="160.54545454545456" y="442" text-anchor="middle" font-size="13" fill="#263238">May</text>
+      <circle cx="231.0909090909091" cy="216.88467330543537" r="5" fill="#0f766e"/>
+      <text x="231.0909090909091" y="442" text-anchor="middle" font-size="13" fill="#263238">Feb</text>
+      <circle cx="301.6363636363636" cy="191.61563743765052" r="5" fill="#0f766e"/>
+      <text x="301.6363636363636" y="442" text-anchor="middle" font-size="13" fill="#263238">Mar</text>
+      <circle cx="372.1818181818182" cy="176.69062587462534" r="5" fill="#0f766e"/>
+      <text x="372.1818181818182" y="442" text-anchor="middle" font-size="13" fill="#263238">Sep</text>
+      <circle cx="442.7272727272727" cy="171.3164616044151" r="5" fill="#0f766e"/>
+      <text x="442.7272727272727" y="442" text-anchor="middle" font-size="13" fill="#263238">Apr</text>
+      <circle cx="513.2727272727273" cy="152.31204862981315" r="5" fill="#0f766e"/>
+      <text x="513.2727272727273" y="442" text-anchor="middle" font-size="13" fill="#263238">Jul</text>
+      <circle cx="583.8181818181818" cy="140.20803467470063" r="5" fill="#0f766e"/>
+      <text x="583.8181818181818" y="442" text-anchor="middle" font-size="13" fill="#263238">Jun</text>
+      <circle cx="654.3636363636364" cy="137.78457682710587" r="5" fill="#0f766e"/>
+      <text x="654.3636363636364" y="442" text-anchor="middle" font-size="13" fill="#263238">Dec</text>
+      <circle cx="724.909090909091" cy="109.80307090269383" r="5" fill="#0f766e"/>
+      <text x="724.909090909091" y="442" text-anchor="middle" font-size="13" fill="#263238">Oct</text>
+      <circle cx="795.4545454545454" cy="84.25516953889121" r="5" fill="#0f766e"/>
+      <text x="795.4545454545454" y="442" text-anchor="middle" font-size="13" fill="#263238">Nov</text>
+      <circle cx="866" cy="58" r="5" fill="#0f766e"/>
+      <text x="866" y="442" text-anchor="middle" font-size="13" fill="#263238">Aug</text>
+</svg>
